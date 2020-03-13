@@ -194,7 +194,8 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-  opacity: 0.5; }
+  background-color: #009B64;
+  color: #FFF; }
 .button.button-primary,
 button.button-primary,
 input[type="submit"].button-primary,
