@@ -7,10 +7,6 @@ body {
 	flex-direction: column;
 }
 
-html[data-current="home"] .main, html[data-current="home"] .container {
-	height: 100%;
-}
-
 h1 {
 	font-family: "SuisseIntl-Medium";
 }
