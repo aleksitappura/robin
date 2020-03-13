@@ -36,6 +36,18 @@ img {
 	display: block;
 }
 
+.articles {
+
+}
+
+.articles h3 {
+
+}
+
+.articles h3 a {
+	text-decoration: none;
+}
+
 .footer {
 	border-top: 1px solid #009B64;
 	padding: 30px 0;
