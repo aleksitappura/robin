@@ -3,6 +3,13 @@ layout: layouts/base.njk
 section: blog
 permalink: /blog/index.html
 ---
+<div class="container">
+	<header class="header u-cf">
+		<h1 class="logo"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+		{% include "components/nav.njk" %}
+	</header>
+</div>
+
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
