@@ -15,7 +15,7 @@ permalink: /blog/index.html
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
 
-<h3>Tags</h3>
+<h3>Categories</h3>
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
