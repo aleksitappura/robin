@@ -131,6 +131,7 @@ body {
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
+  font-family: "SuisseIntl-Medium";
   color: #009B64;
   margin-top: 0;
   margin-bottom: 2rem;
@@ -236,7 +237,7 @@ select {
   height: 40px;
   padding: 7px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
-  border: 1px solid #DDD;
+  border: 1px solid #009B64;
   box-shadow: none;
   box-sizing: border-box; }
 /* Removes awkward default styles on some inputs for iOS */
@@ -264,7 +265,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #009B64;
+  border: 1px solid #000;
   outline: 0; }
 label,
 legend {
