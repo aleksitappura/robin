@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Research
 date: 2017-01-01
 permalink: /blog/index.html
 eleventyNavigation:
