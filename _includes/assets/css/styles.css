@@ -21,7 +21,7 @@ html[data-current="home"] h2 {
 	margin-left: 5px;
 }
 
-.button:hover svg {
+.button:hover svg path {
 	fill: #FFF;
 }
 
