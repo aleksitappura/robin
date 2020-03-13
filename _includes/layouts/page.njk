@@ -2,12 +2,10 @@
 layout: layouts/base.njk
 section: page
 ---
-<div class="container">
-	<header class="header u-cf">
-		<h1 class="logo"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-		{% include "components/nav.njk" %}
-	</header>
-</div>
+<header class="header u-cf">
+	<h1 class="logo"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+	{% include "components/nav.njk" %}
+</header>
 
 <h1>{{ title }}</h1>
 
