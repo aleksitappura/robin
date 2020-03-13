@@ -7,6 +7,14 @@ body {
 	flex-direction: column;
 }
 
+html[data-current="home"] h1 {
+	font-size: 6rem;
+}
+
+html[data-current="home"] h2 {
+	font-size: 3.6rem;
+}
+
 h1 {
 	font-family: "SuisseIntl-Medium";
 }
