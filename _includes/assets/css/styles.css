@@ -113,3 +113,20 @@ img {
 .footer a {
 	text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+	.header .nav {
+		position: fixed;
+	    background-color: #009B64;
+	    top: 0;
+	    right: 0;
+	    bottom: 0;
+	    left: 0;
+	    font-size: 1.9rem;
+	    padding: 30px;
+	}
+
+	.header .nav li a {
+		display: block;
+	}
+}
