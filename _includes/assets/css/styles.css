@@ -16,6 +16,11 @@ html[data-current="home"] h2 {
 	margin-bottom: 4rem;
 }
 
+.button svg {
+	vertical-align: -2px;
+	margin-left: 5px;
+}
+
 h1 {
 	font-family: "SuisseIntl-Medium";
 }
