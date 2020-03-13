@@ -8,8 +8,12 @@ section: contact
 	{% include "components/nav.njk" %}
 </header>
 		
-<h1>{{ title }}</h1>
+<!-- <h1>{{ title }}</h1> -->
 
-{{ layoutContent | safe }}
+<div class="row">
+	<div class="eight columns">
+		{{ layoutContent | safe }}
 
-{% include "components/form.njk" %}
+		{% include "components/form.njk" %}
+	</div>
+</div>
