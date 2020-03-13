@@ -7,6 +7,10 @@ section: page
 	{% include "components/nav.njk" %}
 </header>
 
-<h1>{{ title }}</h1>
+<div class="row">
+	<div class="eight columns">
+		<h1>{{ title }}</h1>
 
-{{ layoutContent | safe }}
+		{{ layoutContent | safe }}
+	</div>
+</div>
