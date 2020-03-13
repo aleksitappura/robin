@@ -124,6 +124,7 @@ img {
 
 .close {
 	z-index: 2;
+	display: none;
 }
 
 @media screen and (max-width: 600px) {

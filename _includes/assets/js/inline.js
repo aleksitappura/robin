@@ -9,7 +9,8 @@ if (window.netlifyIdentity) {
 }
 
 $(document).ready(function() {
-	$('.burger').click(function(event) {
+	$('.burger, .close').click(function(event) {
 		$('.header .nav').fadeToggle();
+		$('.burger, .close').toggle();
 	});
 });
