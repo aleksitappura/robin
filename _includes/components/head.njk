@@ -9,6 +9,7 @@
     {% include "assets/css/styles.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}

@@ -7,3 +7,9 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+$$(document).ready(function() {
+	$('.burger').click(function(event) {
+		$('.header .nav').fadeToggle();
+	});
+});
