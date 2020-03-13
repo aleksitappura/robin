@@ -10,6 +10,3 @@ eleventyNavigation:
 # Robin Capital
 
 ## Venture capital for the digital asset class.
-
-
-[Read our research](/blog)
