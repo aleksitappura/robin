@@ -41,6 +41,10 @@ h1 {
 	float: right;
 }
 
+.header .logo, .header .nav ul {
+	margin-bottom: 0;
+} 
+
 .nav li {
 	display: inline;
 }
