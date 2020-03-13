@@ -136,6 +136,12 @@ img {
 	display: none;
 }
 
+@media screen and (max-width: 400px) {
+	.burger, .close {
+		right: 20px;
+	}
+}
+
 @media screen and (max-width: 600px) {
 	.burger {
 		display: block;
