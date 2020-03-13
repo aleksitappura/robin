@@ -15,7 +15,7 @@ permalink: /blog/index.html
 </header>
 
 <div class="row">
-	<div class="nine columns">
+	<div class="eight columns">
 	<h1>{{ title }}</h1>
 
 	{{ layoutContent | safe }}
@@ -23,7 +23,7 @@ permalink: /blog/index.html
 	{% set postslist = collections.post %}
 	{% include "components/postslist.njk" %}
 	</div>
-	<div class="three columns">
+	<!-- <div class="four columns">
 		<h3>Categories</h3>
 		<ul>
 		{% for tag in collections.tagList %}
@@ -33,5 +33,5 @@ permalink: /blog/index.html
 		</li>
 		{% endfor %}
 		<ul>
-	</div>
+	</div> -->
 </div>

@@ -8,27 +8,31 @@ section: post
   {% include "components/nav.njk" %}
 </header>
 
-<article>
-  <h1>{{ title }}</h1>
-  <p>
-    <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
-  </p>
+<div class="row">
+  <div class="eight columns">
+    <article>
+      <h1>{{ title }}</h1>
+      <p>
+        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
+      </p>
 
-  {{ layoutContent | safe }}
+      {{ layoutContent | safe }}
 
-  {% if tags %}
-    <p>
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
-    </p>
-  {% endif %}
+      {% if tags %}
+        <p>
+        {% for tag in tags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+        </p>
+      {% endif %}
 
-</article>
+    </article>
 
-<nav>
-  <a href="{{ '/blog/' | url }}"><svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M20-4H-4v24h24z"/><path fill="#009B64" fill-rule="nonzero" d="M8 0l1.41 1.41L3.83 7H16v2H3.83l5.58 5.59L8 16 0 8z"/></g></svg> Back</a>
-</nav>
+    <nav>
+      <a href="{{ '/blog/' | url }}"><svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M20-4H-4v24h24z"/><path fill="#009B64" fill-rule="nonzero" d="M8 0l1.41 1.41L3.83 7H16v2H3.83l5.58 5.59L8 16 0 8z"/></g></svg> Back</a>
+    </nav>
+  </div>
+</div>
