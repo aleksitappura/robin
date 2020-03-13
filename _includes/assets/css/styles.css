@@ -1,0 +1,15 @@
+.nav {
+	float: right;
+}
+
+.nav li {
+	display: inline;
+}
+
+.nav li a {
+	display: inline-block;
+}
+
+.logo {
+	float: left;
+}
