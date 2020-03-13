@@ -181,7 +181,6 @@ input[type="button"] {
   text-decoration: none;
   white-space: nowrap;
   background-color: transparent;
-  border-radius: 4px;
   border: 2px solid #001E62;
   cursor: pointer;
   box-sizing: border-box; }
