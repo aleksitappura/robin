@@ -25,7 +25,8 @@ Nyt kun Internet-yhteisö kykenee luomaan ja panemaan täytäntöön sopimuksia,
 Helpoin tapa hahmottaa miten Internet-yritys toimii, on mieltää se markkinapaikkana.
 Markkinapaikan säännöt on kirjattu suoraan lohkoketjuun — eli ne löytyvät Internetistä ja ovat kaikkien luettavissa.
 Jokainen, joka hyväksyy markkinapaikan säännöt, voi osallistua sekä sen palveluntarjoaja- että kuluttajapuolelle. Tilanne ei eroa siitä, että yksittäinen henkilö voi olla sekä Uber-kuljettaja että -kyyditettävä.
-4. Internet-yhteisön operoima yritys pystyy tuottamaan uudenlaisia palveluita
+
+## 4. Internet-yhteisön operoima yritys pystyy tuottamaan uudenlaisia palveluita
 
 Nyt kun Internet-yhteisö kykenee perustamaan ja operoimaan yrityksiä suoraan Internetissä, on kaikilla Internet-yhteydessä olevilla kuluttajilla myös mahdollisuus nauttia näiden Internet-yritysten tarjoamista uudenlaisista palveluista.
 
