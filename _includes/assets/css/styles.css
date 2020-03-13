@@ -119,6 +119,13 @@ img {
 	text-decoration: none;
 }
 
+.burger {
+	position: fixed;
+	right: 30px;
+	top: 30px;
+	cursor: pointer;
+}
+
 @media screen and (max-width: 600px) {
 	.header .nav {
 		position: fixed;
@@ -130,6 +137,7 @@ img {
 	    font-size: 2.4rem;
 	    line-height: 6rem;
 	    padding: 60px 30px;
+	    display: none;
 	}
 
 	.header .nav li a {
