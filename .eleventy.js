@@ -88,6 +88,8 @@ module.exports = function(eleventyConfig) {
     .use(markdownItAnchor, opts)
   );
 
+  eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
+
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
 
