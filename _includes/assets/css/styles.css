@@ -10,6 +10,10 @@
 	display: inline-block;
 }
 
+.nav li:not(:last-child) a {
+	margin-right: 30px;
+}
+
 .logo {
 	float: left;
 }
