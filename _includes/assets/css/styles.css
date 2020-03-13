@@ -7,6 +7,10 @@ body {
 	flex-direction: column;
 }
 
+body[data-current="current item"] .container {
+	height: 100%;
+}
+
 .main {
 	flex: 1 0 auto;
 }
