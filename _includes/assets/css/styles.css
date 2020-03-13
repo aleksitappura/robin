@@ -7,7 +7,7 @@ body {
 	flex-direction: column;
 }
 
-html[data-current="home"] .container {
+html[data-current="home"] .main {
 	height: 100%;
 }
 
