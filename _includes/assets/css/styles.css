@@ -11,6 +11,12 @@ html[data-current="home"] h2 {
 	margin-bottom: 4rem;
 }
 
+html[data-current="home"] .container:first-of-type {
+	display: flex;
+	flex: 1;
+	align-items: center;
+}
+
 html, body {
 	height: 100%;
 }
