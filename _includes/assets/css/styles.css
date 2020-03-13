@@ -21,7 +21,7 @@
 }
 
 .header {
-	border-bottom: 1px solid #001E62;
+	border-bottom: 1px solid #009B64;
 	padding: 20px 0;
 	width: 100%;
 }
@@ -33,5 +33,5 @@ img {
 }
 
 .footer {
-	border-top: 1px solid #001E62;
+	border-top: 1px solid #009B64;
 }
