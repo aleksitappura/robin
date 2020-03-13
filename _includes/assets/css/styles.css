@@ -124,9 +124,14 @@ img {
 	right: 30px;
 	top: 30px;
 	cursor: pointer;
+	display: none;
 }
 
 @media screen and (max-width: 600px) {
+	.burger {
+		display: block;
+	}
+	
 	.header .nav {
 		position: fixed;
 	    background-color: #009B64;
