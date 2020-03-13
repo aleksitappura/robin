@@ -125,7 +125,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
-  color: #001E62; }
+  color: #009B64; }
 
 
 /* Typography
@@ -158,9 +158,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #001E62; }
+  color: #009B64; }
 a:hover {
-  color: #001E62; }
+  color: #009B64; }
 
 
 /* Buttons
@@ -173,7 +173,7 @@ input[type="button"] {
   display: inline-block;
   height: 50px;
   padding: 0 30px;
-  color: #001E62;
+  color: #009B64;
   text-align: center;
   font-size: 16px;
   font-weight: 700;
@@ -181,7 +181,7 @@ input[type="button"] {
   text-decoration: none;
   white-space: nowrap;
   background-color: transparent;
-  border: 2px solid #001E62;
+  border: 2px solid #009B64;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
