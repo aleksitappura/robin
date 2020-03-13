@@ -12,4 +12,4 @@ eleventyNavigation:
 ## Venture capital for the digital asset class.
 
 
-[Research](/blog)
+[Read our research](/blog)
