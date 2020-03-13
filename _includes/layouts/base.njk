@@ -6,7 +6,9 @@
 	<body>
 
 		<main class="main">
-			{{ layoutContent | safe }}
+			<div class="container">
+				{{ layoutContent | safe }}
+			</div>
 		</main>
 
 		{% include "components/footer.njk" %}
