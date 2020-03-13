@@ -19,12 +19,6 @@ h1 {
 	flex-shrink: 0;
 }
 
-.home-center {
-	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
-}
-
 .nav {
 	float: right;
 }
