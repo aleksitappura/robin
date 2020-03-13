@@ -119,7 +119,7 @@ img {
 	text-decoration: none;
 }
 
-.burger {
+.burger, .close {
 	position: absolute;
 	right: 30px;
 	top: 30px;
@@ -128,10 +128,10 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-	.burger {
+	.burger, .close {
 		display: block;
 	}
-	
+
 	.header .nav {
 		position: fixed;
 	    background-color: #009B64;
