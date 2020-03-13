@@ -128,7 +128,7 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-	.burger, .close {
+	.burger {
 		display: block;
 	}
 
