@@ -21,6 +21,10 @@ html[data-current="home"] h2 {
 	margin-left: 5px;
 }
 
+.button:hover svg {
+	fill: #FFF;
+}
+
 h1 {
 	font-family: "SuisseIntl-Medium";
 }
