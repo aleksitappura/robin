@@ -107,12 +107,8 @@ img {
 
 .articles article {
 	margin-bottom: 50px;
-}
-
-.articles article:not(:last-of-type) {
 	border-bottom: 1px solid #009B64;
 }
-
 
 .articles article p {
 	margin-bottom: 0;
