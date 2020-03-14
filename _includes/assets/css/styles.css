@@ -188,11 +188,6 @@ html[data-current="research"] h1, .tagged-heading {
 
 @media screen and (max-width: 600px) {
 
-	ul {
-	  list-style: circle inside; }
-	ol {
-	  list-style: decimal inside; }
-
 	html[data-current="home"] .main {
 		display: block;
 	}
