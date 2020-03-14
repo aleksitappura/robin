@@ -26,6 +26,25 @@
 */
 
 
+/* Import fonts */
+@font-face {
+  font-family: 'suisse-medium';
+  src: url('suisseintl-medium-webfont.woff2') format('woff2'),
+  url('suisseintl-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'suisse-regular';
+  src: url('suisseintl-regular-webfont.woff2') format('woff2'),
+  url('suisseintl-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -124,14 +143,14 @@ body {
   font-size: 1.7em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "SuisseIntl-Regular";
+  font-family: "suisse-regular";
   color: #000; }
 
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "SuisseIntl-Medium";
+  font-family: "suisse-medium";
   color: #009B64;
   margin-top: 0;
   margin-bottom: 2rem;

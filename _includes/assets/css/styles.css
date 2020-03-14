@@ -9,7 +9,7 @@ html[data-current="home"] h1 {
 html[data-current="home"] h2 {
 	font-size: 3.6rem;
 	margin-bottom: 4rem;
-	font-family: "SuisseIntl-Regular";
+	font-family: "suisse-regular";
 }
 
 html[data-current="home"] .container:first-of-type {
@@ -29,10 +29,6 @@ html, body {
 
 .button:hover .arrowRight {
 	fill: #FFF;
-}
-
-h1 {
-	font-family: "SuisseIntl-Medium";
 }
 
 .main {
