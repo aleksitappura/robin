@@ -266,7 +266,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #009B64;
+  border-bottom: 1px solid #009B64;
   outline: 0; }
 label,
 legend {
