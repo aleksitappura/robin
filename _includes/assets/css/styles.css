@@ -45,7 +45,7 @@ strong, b {
 	fill: #FFF;
 }
 
-.main {
+html[data-current="home"] .main {
 	height: 100%;
 	display: flex;
 	flex-direction: column;
