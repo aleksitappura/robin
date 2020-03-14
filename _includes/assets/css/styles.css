@@ -101,12 +101,16 @@ img {
 	display: block;
 }
 
+html[data-current="home"] h1 {
+	margin-bottom: 3.8rem;
+}
+
 .articles {
 
 }
 
 .articles article {
-	padding-top: 33px;
+	padding-top: 23px;
 	margin-bottom: 45px;
 	border-top: 2px solid #009B64;
 }
