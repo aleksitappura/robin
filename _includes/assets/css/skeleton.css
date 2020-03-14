@@ -238,7 +238,7 @@ select {
   padding: 12px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: none;
-  border-bottom: 1px solid #DDD;
+  border-bottom: 1px solid #CCC;
   box-shadow: none;
   box-sizing: border-box; }
 /* Removes awkward default styles on some inputs for iOS */
