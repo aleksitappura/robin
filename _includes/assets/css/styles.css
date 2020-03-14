@@ -122,6 +122,10 @@ img {
 	text-decoration: none;
 }
 
+html[data-current="research"] h1 {
+	border-bottom: 1px solid #009B64;
+}
+
 .footer {
 	margin-top: 100px;
 	border-top: 1px solid #009B64;
