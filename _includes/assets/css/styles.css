@@ -127,6 +127,10 @@ html[data-current="research"] h1 {
 	text-decoration: none;
 }
 
+.tags {
+	border-bottom: 1px solid #009B64;
+}
+
 .post-tag {
 	display: inline-block;
 	height: 40px;
