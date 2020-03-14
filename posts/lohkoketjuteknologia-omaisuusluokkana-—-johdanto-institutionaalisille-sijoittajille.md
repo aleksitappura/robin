@@ -21,6 +21,8 @@ Voit ladata raportin myös [pdf-tiedostona](https://robincapital.co/wp-content/u
 * Tokensijoittaminen käytännössä
   * Tokenmarkkinan varhainen kehitysaste puoltaa pitkäjänteistä ja aktiivista sijoittamista
 
+---
+
 ### Yhteenveto
 
 Tämä artikkeli on suunnattu institutionaalisille- ja muille ammattimaisille sijoittajille, jotka harkitsevat sijoitusvarallisuuden allokoimista lohkoketjuteknologiaan. Artikkeli käsittelee kansainvälisesti omaksuttuja tapoja institutionaalisen sijoittajan vaatimukset täyttävän tokensijoitustoiminnan järjestämiseksi. Lohkoketjusijoituksilla viitataan artikkelissa tokensijoituksiin. Artikkeli ei toisin sanoen käsittele oman pääoman ehtoisia sijoituksia lohkoketjuteknologiaa hyödyntävien perinteisten yritysten osakkeisiin.
@@ -32,6 +34,8 @@ Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: Kohti Internet-Natiivi
 *Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.*
 
 Artikkelin ensimmäinen osa käsittelee lohkoketjualan markkinainfrastruktuurin viimeaikaista kehitystä, joka on mahdollistanut yhä useammalle institutionaaliselle sijoittajalle tokensijoittamisen. Toinen osa käsittelee tokensijoittamiseen liittyviä teknisiä ja operatiivisia lisähaasteita. Kolmannessa osassa kuvataan sijoittajille tarjolla olevia vaihtoehtoja tokensijoitustoiminnan järjestämiseksi.
+
+---
 
 ### Lohkoketjualan kehitys
 
