@@ -4,6 +4,8 @@ date: 2020-03-13T23:18:18.427Z
 summary: Lohkoketjuprotokolla on Internet-pohjainen markkinapaikka
 tags:
   - lohkoketju
+  - markkinat
+  - yhteisö
 ---
 ![Digital sales](/static/img/austin-distel-744ogeqpxpq-unsplash.jpg)
 
