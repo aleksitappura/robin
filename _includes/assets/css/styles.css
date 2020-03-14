@@ -42,7 +42,7 @@ strong, b {
 	vertical-align: -3px;
 }
 
-.button:hover .arrowRight {
+.button:hover .arrowIcon {
 	fill: #FFF;
 }
 
