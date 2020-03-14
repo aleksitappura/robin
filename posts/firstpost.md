@@ -1,7 +1,7 @@
 ---
 title: This is my first post
 summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2015-01-01
+date: 2015-01-01T00:00:00.000Z
 tags:
   - tech
   - environment
@@ -24,3 +24,9 @@ function myCommand() {
 }
 ```
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
