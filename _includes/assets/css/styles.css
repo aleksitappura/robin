@@ -172,4 +172,17 @@ img {
 		display: block;
 		color: #FFF;
 	}
+
+	.footer .nav {
+		float: none;
+	}
+
+	.footer .nav li {
+		display: block;
+	}
+
+	.footer .nav li a {
+		display: block;
+		line-height: 3.4rem;
+	}
 }
