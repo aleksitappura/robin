@@ -106,7 +106,7 @@ img {
 	display: block;
 }
 
-html[data-current="research"] h1 {
+html[data-current="research"] h1, .tagged-heading {
 	margin-bottom: 3.8rem;
 }
 
@@ -222,7 +222,7 @@ html[data-current="research"] h1 {
 		display: block;
 	}
 
-	html[data-current=research] h1 {
+	html[data-current=research] h1, .tagged-heading {
 	    margin-bottom: 3.4rem;
 	}
 
