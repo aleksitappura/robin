@@ -71,6 +71,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
+  eleventyConfig.addPassthroughCopy("static/fonts");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
@@ -89,8 +90,6 @@ module.exports = function(eleventyConfig) {
   );
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
-
-  eleventyConfig.addPassthroughCopy("static/fonts");
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],

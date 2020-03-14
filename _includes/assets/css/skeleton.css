@@ -29,8 +29,8 @@
 /* Import fonts */
 @font-face {
   font-family: 'suisse-medium';
-  src: url('/assets/fonts/suisseintl-medium-webfont.woff2') format('woff2'),
-  url('/assets/fonts/suisseintl-medium-webfont.woff') format('woff');
+  src: url('/static/fonts/suisseintl-medium-webfont.woff2') format('woff2'),
+  url('/static/fonts/suisseintl-medium-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -38,8 +38,8 @@
 
 @font-face {
   font-family: 'suisse-regular';
-  src: url('/assets/fonts/suisseintl-regular-webfont.woff2') format('woff2'),
-  url('/assets/fonts/suisseintl-regular-webfont.woff') format('woff');
+  src: url('/static/fonts/suisseintl-regular-webfont.woff2') format('woff2'),
+  url('/static/fonts/suisseintl-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
