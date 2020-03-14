@@ -3,7 +3,7 @@
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
 			<p>
 				<time datetime="{{ post.date | machineDate }}">
-					{{ post.date | readableDate }} by {{ metadata.author.name }}
+					{{ post.date | readableDate }}
 				</time>
 			</p>
 			<h3>
