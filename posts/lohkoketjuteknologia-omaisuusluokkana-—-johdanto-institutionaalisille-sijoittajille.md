@@ -10,6 +10,8 @@ tags:
 ---
 Voit ladata raportin myös [pdf-tiedostona](https://robincapital.co/wp-content/uploads/2020/01/Lohkoketjuteknologia-omaisuusluokkana-Johdanto-institutionaalisille-sijoittajille-1.pdf).
 
+---
+
 ### Sisällysluettelo
 
 * Yhteenveto
