@@ -107,7 +107,7 @@ img {
 
 .articles article {
 	margin-bottom: 50px;
-	border-top: 1px solid #009B64;
+	border-top: 2px solid #009B64;
 }
 
 .articles article p {
@@ -168,7 +168,7 @@ img {
 
 	.header .nav {
 		position: fixed;
-	    background-color: #000;
+	    background-color: #FFF;
 	    top: 0;
 	    right: 0;
 	    bottom: 0;
@@ -181,11 +181,6 @@ img {
 
 	.header .nav li a {
 		display: block;
-		color: #FFF;
-	}
-
-	.nav li a[data-current="current item"] {
-		color: #009B64;
 	}
 
 	.footer .nav {
