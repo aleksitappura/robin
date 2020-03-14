@@ -237,6 +237,7 @@ select {
   height: 50px;
   padding: 12px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
+  border: none;
   border-bottom: 1px solid #DDD;
   box-shadow: none;
   box-sizing: border-box; }
