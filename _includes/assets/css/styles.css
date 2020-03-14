@@ -188,7 +188,7 @@ html[data-current="research"] h1 {
 
 @media screen and (max-width: 600px) {
 
-	.main {
+	html[data-current="home"] .main {
 		display: block;
 	}
 
