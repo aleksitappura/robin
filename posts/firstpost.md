@@ -1,7 +1,7 @@
 ---
 title: This is my first post
 summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2015-01-01
+date: 2015-01-01T00:00:00.000Z
 tags:
   - tech
   - environment
@@ -24,3 +24,10 @@ function myCommand() {
 }
 ```
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+| Toimija        | Palvelut                 | Sijoittajat                                          | Perustettu |
+| -------------- | ------------------------ | ---------------------------------------------------- |------------|
+| Anchorage      | Säilytys                 | Visa, Khosla Ventures, a16z                          | 2017       |
+| Bakkt          | Kaupankäynti ja säilytys | Intercontinental Exchange                            | 2019       |
+| BitGo          | Säilytys                 | Goldman Sachs, Galaxy Digital, Valor Equity Partners | 2014       |
+| Bitstamp       | Kaupankäynti             | NXHM                                                 | 2011       |
