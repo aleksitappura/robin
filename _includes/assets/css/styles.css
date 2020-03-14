@@ -18,6 +18,11 @@ html[data-current="home"] .container:first-of-type {
 	align-items: center;
 }
 
+html[data-current="home"] .footer {
+	margin-top: 0;
+
+}
+
 html, body {
 	height: 100%;
 }
