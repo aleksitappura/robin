@@ -28,12 +28,10 @@ html, body {
 }
 
 .button-icon-right svg {
-	vertical-align: -1px;
 	margin-left: 5px;
 }
 
 .button-icon-left svg {
-	vertical-align: -1px;
 	margin-right: 5px;
 }
 
