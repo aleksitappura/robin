@@ -10,7 +10,7 @@ if (window.netlifyIdentity) {
 
 $(document).ready(function() {
 	$('.burger, .close').click(function(event) {
-		$('.header .nav').fadeToggle();
+		$('.header .nav').fadeToggle(200);
 		$('.burger, .close').toggle();
 	});
 });
