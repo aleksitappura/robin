@@ -71,6 +71,7 @@ html, body {
 
 .nav li a[data-current="current item"] {
 	color: #000;
+	font-family: "suisse-medium";
 }
 
 .logo {
