@@ -184,6 +184,10 @@ img {
 		color: #FFF;
 	}
 
+	.nav li a[data-current="current item"] {
+		color: #009B64;
+	}
+
 	.footer .nav {
 		float: none;
 	}
