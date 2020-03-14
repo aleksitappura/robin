@@ -130,6 +130,7 @@ html[data-current="research"] h1 {
 .tags {
 	border-bottom: 1px solid #009B64;
 	margin-bottom: 60px;
+	padding-bottom: 50px;
 }
 
 .post-tag {
