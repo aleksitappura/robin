@@ -29,10 +29,12 @@ html, body {
 
 .button-icon-right svg {
 	margin-left: 5px;
+	vertical-align: -3px;
 }
 
 .button-icon-left svg {
 	margin-right: 5px;
+	vertical-align: -3px;
 }
 
 .button:hover .arrowRight {
