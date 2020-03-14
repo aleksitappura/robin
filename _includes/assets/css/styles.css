@@ -170,7 +170,7 @@ html[data-current="research"] h1 {
 .burger, .close {
 	position: absolute;
 	right: 0;
-	top: 30px;
+	top: 31px;
 	cursor: pointer;
 	display: none;
 }
@@ -200,6 +200,11 @@ html[data-current="research"] h1 {
 		display: block;
 	}
 
+	.header {
+		padding: 27px 0 22px;
+		margin-bottom: 60px;
+	}
+
 	.header .nav {
 		position: fixed;
 	    background-color: #FFF;
@@ -215,6 +220,31 @@ html[data-current="research"] h1 {
 
 	.header .nav li a {
 		display: block;
+	}
+
+	html[data-current=research] h1 {
+	    margin-bottom: 3.4rem;
+	}
+
+	.articles article p {
+	    margin-bottom: 11px;
+	}
+
+	.articles article {
+		margin-bottom: 47px;
+	}
+
+	.post-date {
+		margin-bottom: 2rem;
+	}
+
+	.tags {
+		padding-top: 20px;
+		margin-bottom: 40px;
+	}
+
+	.footer {
+		margin-top: 60px;
 	}
 
 	.footer .nav {

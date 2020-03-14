@@ -11,7 +11,7 @@ section: post
       <p class="post-date">
         <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
       </p>
-      <h1>{{ title }}</h1>
+      <h2>{{ title }}</h2>
 
       {{ layoutContent | safe }}
 
@@ -29,7 +29,7 @@ section: post
     </article>
 
     <nav>
-      <a class="button button-icon-left" href="{{ '/research/' | url }}"><svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M20-4H-4v24h24z"/><path fill="#009B64" fill-rule="nonzero" d="M8 0l1.41 1.41L3.83 7H16v2H3.83l5.58 5.59L8 16 0 8z"/></g></svg> Back</a>
+      <a class="button button-icon-left" href="{{ '/research/' | url }}"><svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M20-4H-4v24h24z"/><path fill="#009B64" fill-rule="nonzero" d="M8 0l1.41 1.41L3.83 7H16v2H3.83l5.58 5.59L8 16 0 8z"/></g></svg> All articles</a>
     </nav>
   </div>
 </div>
