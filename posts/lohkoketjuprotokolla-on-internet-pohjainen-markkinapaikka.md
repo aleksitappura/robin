@@ -7,18 +7,18 @@ tags:
 ---
 Ensimmäistä kertaa historiassa…
 
-## 1. Internet-yhteisö pystyy tekemään sitovia päätöksiä
+### 1. Internet-yhteisö pystyy tekemään sitovia päätöksiä
 
 Lohkoketjuteknologia mahdollistaa päätöksenteon Internetissä. Globaali yhteisö — joka koostuu toinen toisilleen tuntemattomista tahoista — voi taloudellisten kannustimien avulla päästä yhteisymmärykseen siitä, mitä on tai ei ole tapahtunut. Eli siitä, onko tietty lohkoketjun jäsenten välinen transaktio toteutettu sen sääntöjen mukaan.
 
 Yllä mainittu taloudellinen kannustin = yksittäinen osallistuja tienaa rahaa äänestämällä rehellisesti & häviää rahaa äänestämällä epärehellisesti.
 Jokaisella jäsenellä on taloudellinen intressi hyväksyä vain ja ainoastaan lohkoketjun sääntöjen mukaisia transaktioita.
 
-## 2. Internet-yhteisö pystyy luomaan ehdollisia sopimuksia
+### 2. Internet-yhteisö pystyy luomaan ehdollisia sopimuksia
 
 Nyt kun Internet-yhteisö kykenee yhteiseen päätöksentekoon, on sen jäsenten välille mahdollista luoda ehdollisia — jos X niin Y, muutoin Z — sopimuksia. Sopimukset ovat lohkoketjuun tallennettua ohjelmistoa, eli mitään kytköstä reaalimaailmaan ei ole. Sopimukset luodaan ja pannaan täytäntöön suoraan Internetissä.
 
-## 3. Internet-yhteisö pystyy perustamaan ja operoimaan yrityksiä
+### 3. Internet-yhteisö pystyy perustamaan ja operoimaan yrityksiä
 
 Nyt kun Internet-yhteisö kykenee luomaan ja panemaan täytäntöön sopimuksia, pystyy se myös perustamaan ja operoimaan yrityksiä suoraan Internetissä — yritys kun on sen toimintaa ohjaavien sopimusten summa.
 
@@ -26,7 +26,7 @@ Helpoin tapa hahmottaa miten Internet-yritys toimii, on mieltää se markkinapai
 Markkinapaikan säännöt on kirjattu suoraan lohkoketjuun — eli ne löytyvät Internetistä ja ovat kaikkien luettavissa.
 Jokainen, joka hyväksyy markkinapaikan säännöt, voi osallistua sekä sen palveluntarjoaja- että kuluttajapuolelle. Tilanne ei eroa siitä, että yksittäinen henkilö voi olla sekä Uber-kuljettaja että -kyyditettävä.
 
-## 4. Internet-yhteisön operoima yritys pystyy tuottamaan uudenlaisia palveluita
+### 4. Internet-yhteisön operoima yritys pystyy tuottamaan uudenlaisia palveluita
 
 Nyt kun Internet-yhteisö kykenee perustamaan ja operoimaan yrityksiä suoraan Internetissä, on kaikilla Internet-yhteydessä olevilla kuluttajilla myös mahdollisuus nauttia näiden Internet-yritysten tarjoamista uudenlaisista palveluista.
 
