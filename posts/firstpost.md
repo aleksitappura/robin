@@ -25,8 +25,9 @@ function myCommand() {
 ```
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Toimija        | Palvelut                 | Sijoittajat                                          | Perustettu |
+| -------------- | ------------------------ | ---------------------------------------------------- |------------|
+| Anchorage      | Säilytys                 | Visa, Khosla Ventures, a16z                          | 2017       |
+| Bakkt          | Kaupankäynti ja säilytys | Intercontinental Exchange                            | 2019       |
+| BitGo          | Säilytys                 | Goldman Sachs, Galaxy Digital, Valor Equity Partners | 2014       |
+| Bitstamp       | Kaupankäynti             | NXHM                                                 | 2011       |
