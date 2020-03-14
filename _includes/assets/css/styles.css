@@ -151,6 +151,11 @@ img {
 }
 
 @media screen and (max-width: 600px) {
+
+	.home-center {
+		padding: 80px 0;
+	}
+
 	.burger {
 		display: block;
 	}
