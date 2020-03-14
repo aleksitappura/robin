@@ -10,7 +10,7 @@ tags:
 ---
 Voit ladata raportin myös [pdf-tiedostona](https://robincapital.co/wp-content/uploads/2020/01/Lohkoketjuteknologia-omaisuusluokkana-Johdanto-institutionaalisille-sijoittajille-1.pdf).
 
----
+- - -
 
 ### Sisällysluettelo
 
@@ -23,13 +23,13 @@ Voit ladata raportin myös [pdf-tiedostona](https://robincapital.co/wp-content/u
 * Tokensijoittaminen käytännössä
   * Tokenmarkkinan varhainen kehitysaste puoltaa pitkäjänteistä ja aktiivista sijoittamista
 
----
+- - -
 
 ### Yhteenveto
 
 Tämä artikkeli on suunnattu institutionaalisille- ja muille ammattimaisille sijoittajille, jotka harkitsevat sijoitusvarallisuuden allokoimista lohkoketjuteknologiaan. Artikkeli käsittelee kansainvälisesti omaksuttuja tapoja institutionaalisen sijoittajan vaatimukset täyttävän tokensijoitustoiminnan järjestämiseksi. Lohkoketjusijoituksilla viitataan artikkelissa tokensijoituksiin. Artikkeli ei toisin sanoen käsittele oman pääoman ehtoisia sijoituksia lohkoketjuteknologiaa hyödyntävien perinteisten yritysten osakkeisiin.
 
-Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: Kohti Internet-Natiivia Taloutta.
+Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: [Kohti Internet-Natiivia Taloutta.](https://medium.com/robin-capital/kohti-internet-natiivia-taloutta-1d25ea6c02ea)
 
 ![Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.](/static/img/ff.png "Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.")
 
@@ -37,13 +37,11 @@ Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: Kohti Internet-Natiivi
 
 Artikkelin ensimmäinen osa käsittelee lohkoketjualan markkinainfrastruktuurin viimeaikaista kehitystä, joka on mahdollistanut yhä useammalle institutionaaliselle sijoittajalle tokensijoittamisen. Toinen osa käsittelee tokensijoittamiseen liittyviä teknisiä ja operatiivisia lisähaasteita. Kolmannessa osassa kuvataan sijoittajille tarjolla olevia vaihtoehtoja tokensijoitustoiminnan järjestämiseksi.
 
----
+- - -
 
 ### Lohkoketjualan kehitys
 
 #### Säänneltyjen ja ammattimaisten toimijoiden määrä on nousussa
-
-
 
 Lohkoketjuteknologian kehityksen alkuvuosina (2009–2013) tokenien kaupankäyntiä ja säilytystä koskeva markkinainfrastruktuuri ei vastannut institutionaalisten sijoittajien edellyttämää tasoa. Viime vuosina perustetut säännellyt ja institutionaaliset vaatimukset täyttävät palveluntarjoajat ovat mahdollistaneet ammattimaisten sijoittajien tokeneihin kohdistuvan sijoitustoiminnan.
 
