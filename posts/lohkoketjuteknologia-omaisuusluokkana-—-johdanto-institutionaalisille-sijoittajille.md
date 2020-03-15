@@ -16,14 +16,11 @@ Voit ladata raportin myös [pdf-tiedostona](https://robincapital.co/wp-content/u
 
 * **Yhteenveto**
 * **Lohkoketjualan kehitys**
-
   * Säänneltyjen ja ammattimaisten toimijoiden määrä nousussa
 * **Uuteen omaisuusluokkaan liittyvät haasteet**
-
   * Lohkoketjuteknologian potentiaalista hyötyminen edellyttää tokeneihin sijoittamista
   * Tokensijoittaminen tapahtuu Internet-natiivissa toimintaympäristössä
 * **Tokensijoittaminen käytännössä**
-
   * Tokenmarkkinan varhainen kehitysaste puoltaa pitkäjänteistä ja aktiivista sijoittamista
 
 - - -
