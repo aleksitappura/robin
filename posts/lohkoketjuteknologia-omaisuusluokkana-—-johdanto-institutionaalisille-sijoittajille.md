@@ -49,10 +49,10 @@ Lohkoketjualan institutionaalisiin keulahahmoihin lukeutuu Yhdysvaltalainen Fide
 
 Esimerkkejä muista lohkoketjuteknologiaan sijoittaneista tunnetuista teknologiasijoittajista ja perinteisistä rahoitusalan toimijoista:
 
-* Pääomasijoitusyhtiö Andreessen Horowitz (a16z). a16z lanseerasi kesällä 2018 tokensijoituksiin erikoistuneen a16z crypto -rahaston (AUM $300 miljoonaa).
-* Pääomasijoitusyhtiö Sequioa Capital (Sequioa). Sequioan entinen osakas Matt Huang ja tokenpalveluja tarjoavan Coinbasen perustaja Fred Ehrsam perustivat vuonna 2018 tokensijoituksiin erikoistuneen Paradigm-nimisen venture capital-rahaston (AUM $400 miljoonaa). Rahaston sijoittajiin lukeutuu Sequioan lisäksi mm. Yalen yliopiston säätiö, jonka sijoitusjohtaja David Swensen on tunnettu vahvasti vaihtoehtoisiin sijoituksiin painottuvasta rahastosijoitusstrategiastaan.
-* Chicago Mercantile Exchange (CME). CME lisäsi bitcoin-futuurit tuotevalikoimaansa joulukuussa 2017. Yhtiö otti bitcoin-optiot kaupankäynnin kohteeksi tammikuussa 2020.
-* New York Stock Exchangen emoyhtiö Intercontinental Exchange (ICE). ICE lanseerasi vuonna 2019 tokenien kaupankäyntiin ja säilytykseen keskittyvän Bakkt-nimisen palvelun.
+* **Pääomasijoitusyhtiö Andreessen Horowitz (a16z).** a16z lanseerasi kesällä 2018 tokensijoituksiin erikoistuneen a16z crypto -rahaston (AUM $300 miljoonaa).
+* **Pääomasijoitusyhtiö Sequioa Capital (Sequioa).** Sequioan entinen osakas Matt Huang ja tokenpalveluja tarjoavan Coinbasen perustaja Fred Ehrsam perustivat vuonna 2018 tokensijoituksiin erikoistuneen Paradigm-nimisen venture capital-rahaston (AUM $400 miljoonaa). Rahaston sijoittajiin lukeutuu Sequioan lisäksi mm. Yalen yliopiston säätiö, jonka sijoitusjohtaja David Swensen on tunnettu vahvasti vaihtoehtoisiin sijoituksiin painottuvasta rahastosijoitusstrategiastaan.
+* **Chicago Mercantile Exchange (CME).** CME lisäsi bitcoin-futuurit tuotevalikoimaansa joulukuussa 2017. Yhtiö otti bitcoin-optiot kaupankäynnin kohteeksi tammikuussa 2020.
+* **New York Stock Exchangen emoyhtiö Intercontinental Exchange (ICE).** ICE lanseerasi vuonna 2019 tokenien kaupankäyntiin ja säilytykseen keskittyvän Bakkt-nimisen palvelun.
 
 ![Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.](/static/img/cme.png "Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.")
 
