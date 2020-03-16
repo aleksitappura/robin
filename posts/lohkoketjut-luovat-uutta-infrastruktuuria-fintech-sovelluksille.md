@@ -3,7 +3,6 @@ title: Lohkoketjut Luovat Uutta Infrastruktuuria Fintech-Sovelluksille
 date: 2020-03-14T17:30:18.050Z
 tags:
   - fintech
-  - lohkoketjut
 ---
 Finanssiteknologian tai Fintechin rooli on kasvanut entisestään [PSD2](https://fintechrockers.com/psd2-for-dummies/)-direktiivin myötä. Direktiivi pakottaa pankit avaamaan asiakasrajapintansa fintech-sovelluksille. Fintech-sovellukset sijoittuvat kuluttajan ja pankin väliin — ne pyrkivät parantamaan kuluttajan päivittäisten pankki- ja rahoituspalveluiden käyttökokemusta.
 
