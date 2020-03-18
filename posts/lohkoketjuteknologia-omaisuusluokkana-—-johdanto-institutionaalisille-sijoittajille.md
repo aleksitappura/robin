@@ -8,19 +8,20 @@ tags:
 ---
 *Lue raportti **[englanniksi](https://robincapital.co/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).***
 
-### Sisällysluettelo
+**Yhteenveto**
 
-* ***Yhteenveto***
-* ***Lohkoketjualan kehitys***
+**Lohkoketjualan kehitys**
 
-  * *Säänneltyjen ja ammattimaisten toimijoiden määrä nousussa*
-* ***Uuteen omaisuusluokkaan liittyvät haasteet***
+* Säänneltyjen ja ammattimaisten toimijoiden määrä nousussa
 
-  * *Lohkoketjuteknologian potentiaalista hyötyminen edellyttää tokeneihin sijoittamista*
-  * *Tokensijoittaminen tapahtuu Internet-natiivissa toimintaympäristössä*
-* ***Tokensijoittaminen käytännössä***
+**Uuteen omaisuusluokkaan liittyvät haasteet**
 
-  * *Tokenmarkkinan varhainen kehitysaste puoltaa pitkäjänteistä ja aktiivista sijoittamista*
+* Lohkoketjuteknologian potentiaalista hyötyminen edellyttää tokeneihin sijoittamista
+* Tokensijoittaminen tapahtuu Internet-natiivissa toimintaympäristössä
+
+**Tokensijoittaminen käytännössä**
+
+* Tokenmarkkinan varhainen kehitysaste puoltaa pitkäjänteistä ja aktiivista sijoittamista
 
 ### Yhteenveto
 
