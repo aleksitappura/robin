@@ -95,6 +95,4 @@ Uuden tokenomaisuusluokan varhainen kehitysaste, siihen liittyvät lainsäädän
 
 Edellä mainituista syistä lohkoketjualalla yleisin sijoitusmuoto on yksinomaan lohkoketjuteknologiaan keskittyvä venture capital-rahasto. Tokensijoituksiin erikoistuneet rahastohoitajat ovat usein perinteisiä verrokkejaan nuorempia ja perinteisin mittarein kokemattomampia.
 
-- - -
-
 ###### *Tämän artikkelin sisältö ei ole sijoitustutkimusta, rahoitusanalyysiä eikä sijoitusneuvontaa, eikä artikkelin sisältöä saa tulkita minkäänlaisena suosituksena ostaa tai myydä mitään osaketta tai sijoituskohdetta. Mitään takeita tämän artikkelin sisällön oikeellisuudesta ei voida antaa. Jos tämän artikkelin lukija haluaa muodostaa jostain osakkeesta tai sijoituskohteesta mielipiteen mahdollista sijoituspäätöstä varten, vastaa hän tästä vain ja ainoastaan itse. Tässä tapauksessa suosittelemme, että lukija joko itse tai mahdollisen sijoitusneuvojansa kanssa hankkivat lisätietoa asiasta.*
