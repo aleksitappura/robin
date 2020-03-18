@@ -7,19 +7,20 @@ tags:
 ---
 *Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/)**.*
 
-### Table of Contents
+**Executive Summary**
 
-* ***Executive Summary***
-* ***The Development of Blockchain Technology***
+**The Development of Blockchain Technology**
 
-  * *The number of regulated and professional market participants is on the rise*
-* ***Challenges Relating to the New Asset Class***
+* The number of regulated and professional market participants is on the rise
 
-  * *Token ownership is a prerequisite for capturing the potential value of blockchain technology*
-  * *Token investing is conducted in an Internet-native environment*
-* ***Token Investing in Practice***
+**Challenges Relating to the New Asset Class**
 
-  * *The early stage of the token market favours a long-term approach combined with an active investment strategy*
+* Token ownership is a prerequisite for capturing the potential value of blockchain technology
+* Token investing is conducted in an Internet-native environment
+
+**Token Investing in Practice**
+
+* The early stage of the token market favours a long-term approach combined with an active investment strategy
 
 ### Executive Summary
 
