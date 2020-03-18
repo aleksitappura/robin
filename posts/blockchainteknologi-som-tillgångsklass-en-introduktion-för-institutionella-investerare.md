@@ -6,20 +6,20 @@ tags:
 ---
 *Läs artikeln på **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** eller **[finska](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)**.*
 
-***Sammanfattning***
+**Sammanfattning**
 
-***Blockchainindustrins utveckling***
+**Blockchainindustrins utveckling**
 
-* *Antalet reglerade och professionella aktörer på marknaden ökar*
+* Antalet reglerade och professionella aktörer på marknaden ökar
 
-***Utmaningar orsakade av en ny tillgångsklass***
+**Utmaningar orsakade av en ny tillgångsklass**
 
-* *För att kunna ta del av blockchainteknologins potential måste man äga tokens* 
-* *Tokeninvesteringar genomförs i en Internet-nativ miljö*
+* För att kunna ta del av blockchainteknologins potential måste man äga tokens 
+* Tokeninvesteringar genomförs i en Internet-nativ miljö
 
-***Tokeninvesteringar i praktiken***
+**Tokeninvesteringar i praktiken**
 
-* *Den tidiga utvecklingsfasen av tokenmarknaden förespråkar långsiktig och aktiv investeringsverksamhet*
+* Den tidiga utvecklingsfasen av tokenmarknaden förespråkar långsiktig och aktiv investeringsverksamhet
 
 ### Sammanfattning
 
