@@ -1,0 +1,125 @@
+---
+title: Kohti Internet-natiivia taloutta
+date: 2019-11-22T17:25:55.588Z
+tags:
+  - post
+  - ''
+---
+*Lue artikkeli **[ruotsiksi](https://robincapital.co/mot-en-internet-nativ-ekonomi/)** tai **[englanniksi](https://robincapital.co/towards-an-internet-native-economy/)**.*
+
+***INFORMAATIOTEKNOLOGIAN KEHITYS***
+
+* *​Uusi infrastruktuuri mahdollistaa uudenlaiset palvelut*
+* *​Lohkoketjuprotokollat tuottavat avoimia, maailmanlaajuisia ja tehokkaita palveluita*
+* *Lohkoketjuprotokollia omistavat maailmanlaajuiset yhteisöt*
+
+***​LOHKOKETJUTEKNOLOGIA***
+
+* *Lohkoketjuteknologia mahdollistaa maailmanlaajuisten palveluiden tuottamisen ​*
+* *Sovellukset rakennetaan lohkoketjuprotokollien tuottamien palveluiden päälle*
+* *Esimerkkejä lohkoketjuprotokollien tuottamista palveluista*
+
+***​LOHKOKETJUTEKNOLOGIAN KEHITYS***
+
+* *Internet-natiivi raha (2008–2013)*
+* *Internet-natiivit sovellukset (2014–2019)*
+* *Internet-natiivi talous (2020-)*
+
+
+
+### INFORMAATIOTEKNOLOGIAN KEHITYS
+
+#### ​Uusi infrastruktuuri mahdollistaa uudenlaiset palvelut
+
+**Maailman arvokkaimmat yritykset syntyvät teknologia-alustojen murrosvaiheessa.** Murrosvaiheessa uusille toimijoille avautuu mahdollisuus rakentaa uuden teknologia-alustan uusia toiminnallisuuksia hyödyntäviä palveluita. Internetin nykyiset suuryritykset (GAFA) selvisivät poikkeuksellisesti yhden murrosvaiheen yli, koska liiketoimintamalli (datan kerääminen ja mainostilan myyminen) Internet ja älypuhelin ajanjaksoina pysyi samana. Uuden teknologia-alustan muuttaessa liiketoimintamalleja, uusilla yrityksillä on mahdollisuus syrjäyttää vallassa olevat yritykset. Lohkoketjuteknologia muuttaa nykyisiä liiketoimintamalleja tekemällä datasta avointa.
+
+**Teknologia-alustat ovat informaatioteknologian infrastruktuuria.**Uudelle teknologia-alustalle on ominaista, että se tuo mukanaan uusia toiminnallisuuksia ja jakelukanavia. PC:n laskentateho mahdollisti tekstinkäsittelyyn ja taulukkolaskentaan erikoistuneiden sovellusten laaja-alaisen levityksen; Internet maailmanlaajuisena verkostona yhdisti PC:t yhteen jaettuun kommunikaatioverkostoon; älypuhelin teki tietokoneista kannettavia ja sisällytti niihin uusina ominaisuuksina sekä GPS-paikannuksen että kameran. Uuden teknologia-alustan ensimmäiset vuodet ovat usein otollisia hetkiä uudenlaisten yritysten rakentamiseen ja rahoittamiseen.
+
+![](/static/img/screenshot-2020-03-18-at-19.28.46.png "Informaatioteknologian kehitys 1990–2020.")
+
+**Lohkoketjuteknologia on uusi teknologia-alusta.** Lohkoketjuteknologia mahdollistaa maailmanlaajuisen yhteisön yhteisesti ylläpitämät avoimet tietokannat. Perinteisesti yritykset ovat vastanneet tiedon käsittelystä, tallentamisesta ja tietokantojen ylläpidosta. Tämän vastuun siirtäminen maailmanlaajuiselle käyttäjäryhmälle merkitsee, että yritystoimintaa voidaan harjoittaa vertaisverkossa, ilman perinteistä yritystä. Vertaisverkossa toimivat yritykset eli lohkoketjuprotokollat tarjoavat kilpailijoitaan parempia palveluita. Lohkoketjuprotokollien tuottamien palveluiden paremmuus perustuu niiden avoimuuteen (avoin lähdekoodi), kustannustehokkuuteen (maailmanlaajuinen kilpailu) ja jakeluun (Internet).
+
+#### ​Lohkoketjuprotokollat tuottavat avoimia, maailmanlaajuisia ja tehokkaita palveluita
+
+**Lohkoketjuprotokollat keskittävät tietyn palvelun maailmanlaajuisen kysynnän ja tarjonnan yhteen paikkaan.** Nykyisten yritysten ylläpitämät markkinapaikat ovat usein pirstaloituneita sekä maantieteellisistä että lainsäädännöllisistä syistä. Lohkoketjuprotokollat mahdollistavat maailmanlaajuisten markkinapaikkojen rakentamisen suoraan Internetiin — Internet loi maailmanlaajuisen markkinapaikan tiedonsiirrolle ja lohkoketjuteknologia tekee saman arvonsiirrolle. Lohkoketjuprotokollaan ohjelmoidaan ne säännöt, joiden puitteissa arvoa siirretään. Lohkoketjuprotokollien ohjelmoitavuus merkitsee sitä, että niiden avulla voidaan tuottaa mitä tahansa digitaalista palvelua maailmanlaajuisen yhteisön toimesta suoraan vertaisverkossa.
+
+**Lohkoketjuprotokolla maailmanlaajuisena markkinapaikkana on kustannustehokkain tapa tuottaa tietty palvelu.** Eri palveluiden maailmanlaajuisen kysynnän ja tarjonnan keskittäminen yhteen paikkaan johtaa kaikista kilpailukykyisimpiin hintoihin. Internetin maailmanlaajuisen ja avoimen kilpailun takia lohkoketjuprotokollat eivät lopulta voi periä muuta kuin palvelun ylläpitämiseen vaaditun vähimmäiskatteen. Sijoittajan näkökulmasta tämä ei haittaa, koska lohkoketjuprotokollat operoivat ennenäkemättömällä skaalalla. Jokaisen lohkoketjuprotokollan omistajapohjan teoreettinen yläraja on kulloinkin Internet-yhteydessä olevan väestön (ja laitteiden) määrä. Seitsemän miljardin ihmisen omistaman maksuverkon rakentaminen ei ole koskaan aikaisemmin ollut mahdollista.
+
+![](/static/img/screenshot-2020-03-18-at-19.29.10.png "Lohkoketjuprotokollat operoivat ennenäkemättömällä skaalalla perinteisiin yrityksiin verrattuna.")
+
+**Lohkoketjuprotokollissa on vahvat verkostovaikutukset.** Loppukäyttäjille suunnatut sovellukset hakevat tietyn palvelun aina siitä lohkoketjuprotokollasta, joka tuottaa sen kaikkein kustannustehokkaimmin. Tästä seuraa, että lopulta jokaista palvelua kohtaan on aina yksi lohkoketjuprotokolla. Suoraan lohkoketjuprotokolliin sijoittaminen on taloudellisesti paljon kannattavampaa kuin esimerkiksi sen palvelun päälle rakennettuun sovellukseen sijoittaminen. Tämä siksi, että tietyn palvelukategorian voittava lohkoketjuprotokolla palvelee kaikkia maailman sovelluksia. Tilanne on verrannollinen siihen, että 90-luvulla olisi ollut mahdollista sijoittaa SMTP (sähköposti), HTTPS (verkkosalaus) ja TCP/IP (tiedonsiirto) Internet-protokolliin. Jokainen sähköposti, verkkosivun lataus tai tiedonsiirto Internetissä olisi kerryttänyt näiden protokollien arvoa.
+
+#### ​Lohkoketjuprotokollia omistavat maailmanlaajuiset yhteisöt
+
+**Lohkoketjuprotokollan omistus on sidottu tokeneihin.** Lohkoketjuprotokolla voidaan mieltää Internetiin rekisteröityneeksi yritykseksi, jota ylläpitää globaali työntekijäyhteisö ja joka tarjoaa palveluitaan kaikista kustannustehokkaimmin maailmanlaajuiselle käyttäjäkunnalle. Ostamalla yksittäisen lohkoketjuprotokollan tokeneita (vrt. osakkeita), sijoittajalla on mahdollisuus päästä osaksi näiden Internet-natiivien yritysten arvonnousua. Se lohkoketjuprotokolla, joka onnistuu tarjoamaan tietyn palvelun kaikkein kustannustehokkaimmin tulee osaksi Internetin ydininfrastruktuuria.
+
+**Token antaa omistajalleen sekä taloudellisia että hallinnollisia oikeuksia.** Tokeneihin voidaan ohjelmoida sekä taloudellisia (oikeus varojenjakoon) että hallinnollisia (äänestysoikeus) oikeuksia. Tokenomistajien intressissä on kasvattaa omistamistaan lohkoketjuprotokollista maailmanlaajuisia ja kustannustehokkaita infrastruktuurikomponentteja, joiden päälle kuka tahansa voi rakentaa oman loppukäyttäjille suunnatun sovelluksensa. Perinteisten osakkeiden tavoin myös tokenit on luotu kannustamaan tokenomistajaa osallistumaan lohkoketjuprotokollan liiketoiminnan kehittämiseen.
+
+![](/static/img/screenshot-2020-03-18-at-19.29.31.png "Tokenomistajien rooli voidaan rinnastaa osakkeenomistajien rooliin.")
+
+**Mitä enemmän lohkoketjuprotokollan tuottamalle palvelulle on kysyntää, sitä arvokkaampi sen token on.** Lohkoketjuprotokollien tavoitteena on tuottaa tiettyä palvelua mahdollisimman luotettavasti ja kustannustehokkaasti. Eri palvelukategorioiden voittavat lohkoketjuprotokollat muodostuvat osaksi Internetin ydininfrastruktuuria. Potentaali arvonnousulle on merkittävä, koska nämä lohkoketjuprotokollat välittävät parhaimmillaan kaikkea Internetissä tapahtuvaa taloudellista aktiviteettia. Tokenomistajille arvoa kertyy lohkoketjuprotokollan käytöstä perittävän transaktiokustannuksen (vähimmäiskatteen) myötä.
+
+### ​LOHKOKETJUTEKNOLOGIA
+
+#### ​Lohkoketjuteknologia mahdollistaa maailmanlaajuisten palveluiden tuottamisen
+
+**Internet-protokollat välittävät tietoa tietokoneiden välillä, mutta eivät pysty tallentamaan sitä.** Internet-protokollat mahdollistavat ainoastaan tiedonsiirron tietokoneiden välillä. Esimerkiksi sähköpostikommunikaatiossa käytetty SMTP-protokolla (simple mail transfer protocol) mahdollistaa lähes reaaliaikaiseen ja maailmanlaajuiseen kommunikaation. SMTP-protokolla (ja muut Internet-protokollat) ei kuitenkaan kykene tallentamaan sen välityksellä lähetettyä viestejä. Mikäli sähköpostiviestin vastaanottaja ei vastaanottohetkellä kirjoita viestiä muistiin (sisältö, saapumisaika, suhde aikaisemmin vastaanotettuihin/lähetettyihin viesteihin jne.) häviää kyseinen viesti kyberavaruuteen. Käyttökokemus on hyvin rajattu, vaikka potentiaali on merkittävä.
+
+**Yritykset käsittelevät ja tallentavat Internet-protokollien välittämää tietoa suljettuihin tietokantoihinsa.** Koska SMTP-protokolla ei kykene tallentamaan sen avulla lähetettyjä viestejä, ulkopuolisella yrityksellä (esim. Google) on taloudelliset intressit rakentaa tietokanta, johon viestit tallennetaan. Yritykset luovat tallentamansa datan pohjalta loppukäyttäjille suunnattuja sovelluksia. Nyky-Internetissä ylivoimaisesti paras liiketoimintamalli on datan kerääminen. Mitä enemmän dataa yritys onnistuu keräämään, sitä paremmin yritys pystyy kehittämään kuluttajien suosimia sovelluksia. Paremmat sovellukset houkuttelevat enemmän kuluttajia ja heidän dataansa, mikä antaa yritykselle entistä paremmat edellytykset parantaa sovelluksiaan. Tätä ilmiötä kutsutaan datan tuottamaksi verkostovaikutukseksi. Lopputuloksena suurin osa väestöstä käyttää vain kourallista sovelluksia, joiden keräämä data tallentuu muutaman suuryrityksen suljettuihin tietokantoihin.
+
+**Lohkoketjuteknologia luo maailmanlaajuisille yhteisöille taloudelliset kannustimet ylläpitää avoimia tietokantoja (tietokannan ylläpitäminen on edellytys palvelun tuottamiselle).** Eri palveluita koskeva tieto on nyt mahdollista tallentaa avoimiin, maailmanlaajuisten yhteisöjen yhteisesti omistamiin ja ylläpitämiin tietokantoihin. Lohkoketjuprotokolla koostuu tietyn palvelun toimintalogiikasta ja avoimesta tietokannasta. Monen toimialan transaktiotietokannat ovat jakautuneet tuhansien eri yritysten välillä. Lohkoketjuprotokolla tarjoaa tietylle palvelulle kilpailevana ratkaisuna yhden maailmanlaajuisen ja avoimen transaktiotietokannan.
+
+![](/static/img/screenshot-2020-03-18-at-19.29.45.png "Lohkoketjuprotokollat tarjoavat avoimia palveluita sovelluskehittäjille.")
+
+#### Sovellukset rakennetaan lohkoketjuprotokollien tuottamien palveluiden päälle
+
+**Lohkoketjuprotokollien avoimet palvelut ovat neutraaleja työkaluja sovelluskehittäjille.** Sovelluskehittäjät voivat käyttää lohkoketjuprotokollien avoimia palveluita työkaluinaan omissa loppukäyttäjille suunnatuissa sovelluksissaan, ilman pelkoa siitä, että yksittäinen yritys voisi sulkea sovelluksen pääsyn kyseiseen palveluun (nk. alustariski). Alustariskin toteutumisesta on useita esimerkkejä: Facebook/Zynga, Google/Yelp, Twitter/ulkopuoliset sovelluskehittäjät. Avoimet palvelut lisäävät innovaatiota yhteiskunnassa: lohkoketjuprotokollien tuottamien palveluiden nykyinen suosio sovelluskehittäjien keskuudessa on osoitus yleisestä kysynnästä avoimille palveluille. Yksittäinen sovellus voi hyödyntää yhden tai useamman lohkoketjuprotokollan palveluita. Koska palvelut ovat avoimia, on niiden yhdistäminen vaivatonta. Niiden avoimuus tarkoittaa myös sitä, että yksittäisen lohkoketjuprotokollan kehittäjien ja omistajien intressissä on saada kaikki maailman sovelluskehittäjät käyttämään niiden palvelua. Tämä eroaa nykytilanteesta, jossa palvelua tarjoavan ja ostavan yrityksen yhteistyö muuttuu ajan myötä kilpailuksi.
+
+![](/static/img/screenshot-2020-03-18-at-19.30.02.png "Lohkoketjuprotokollat poistavat sovelluskehittäjiltä alustariskin.")
+
+**Lohkoketjuprotokolla tuo taloudelliset kannustimet avoimen lähdekoodiin kehitykseen.** Lohkoketjuprotokollaan ohjelmoidaan taloudelliset kannustimet sen avoimen lähdekoodin kehittämiseen. Yksittäisen lohkoketjuprotokollan kehittäjä voi hyötyä taloudellisesti avoimen lähdekoodin kehittämisestä ostamalla lohkoketjuprotokollan tokeneita ja parantamalla sen tuottaman palvelun kysyntää, jolloin myös tokeneiden arvo nousee.
+
+**Lohkoketjuprotokollien tuottamien palveluiden tarkoituksena on toimia luotettavana infrastruktuurina käyttäjärajapinnassa toimiville sovelluksille.** Sovelluskehittäjät käyttävät lohkoketjuprotokollien avoimia palveluita omissa kuluttajille suunnatuissa sovelluksissaan. Sovellukset voidaan mieltää tietyn lohkoketjuprotokollan markkinointikoneistoksi, koska niiden tehtävänä on lisätä lohkoketjuprotokollan tuottaman palvelun käyttöä ja näin myös sen arvoa. Koska kuka tahansa voi rakentaa oman sovelluksensa lohkoketjuprotokollien tuottamien avointen palveluiden päälle, tulee maailmanlaajuinen kilpailu johtamaan kuluttajien kannalta nykytilannetta suotuisampaan tilanteeseen.
+
+#### ​Esimerkkejä lohkoketjuprotokollien tuottamista palveluista
+
+**Lohkoketjuprotokollan tuottaman palvelun liiketoimintalogiikka on ohjelmoitu sen avoimeen lähdekoodiin.** Usein lähdekoodiin on jätetty auki tietyt palvelun toimivuuden kannalta olennaiset muuttujat, joista tokenomistajat äänestävät tasaisin väliajoin. Kuka tahansa voi hyödyntää lohkoketjuprotokollien tuottamia palveluita maksua ja/tai vakuuden asettamista vastaan. Lohkoketjuprotokollan tokenomistajien tehtävänä on ylläpitää palvelun toimivuutta (äänestämällä yllä mainituista muuttujista) ja luotettavuutta (asettamalla tokenomistuksensa palvelun vakuudeksi).
+
+![](/static/img/screenshot-2020-03-18-at-19.30.25.png "Esimerkkejä eri lohkoketjuprotokollista ja niiden tuottamista palveluista.")
+
+### LOHKOKETJUTEKNOLOGIAN KEHITYS
+
+#### ​Internet-natiivi raha (2008–2013)
+
+**Bitcoin houkuttelee alkuun teknologiaharrastelijoita, kryptograafikoita ja taloudellisia liberalisteja.** Bitcoin ja lohkoketjuteknologian mahdollistama transaktiotehokkuus herättää monen johtavan teknologia-alan pääomasijoittajan huomion. Yrittäjät ja pääomasijoittajat näkevät tokeneiden turvallisten säilytysratkaisujen ja kauppapaikkojen puutteen mahdollisuutena rakentaa parempia siltoja rinnakkaiseen digitaaliseen talouteen. Andreessen Horowitz ja Union Square Ventures sijoittavat tokenien säilytysyhteisönä ja kaupankäyntialustana toimivaan Coinbaseen vuonna 2013. Coinbase hallinnoi nykyisellään $20 miljardin edestä kuluttajien ja institutionaalisten sijoittajien tokeneita.
+
+**Monet palveluntarjoajista ovat harrastelijoita, eikä heillä ole edellytyksiä ylläpitää luotettavia tokenien säilytys- ja kaupankäyntipalveluita.** Monia tokenpörssejä ja -lompakkopalveluita operoidaan huolimattomasti, minkä seurauksena kuluttajat häviävät tokenpörsseissä ja -lompakkopalveluissa säilyttämiänsä varoja. Tunnetuin esimerkki on japanilainen tokenpörssi Mt. Gox, josta vuosien 2011–2014 välillä varastetaan noin $450 miljoonan edestä bitcoinia. Vaikka markkinoilla on alkuvaiheessa paljon huolimattomasti toimivia yrittäjiä, lohkoketjuteknologia toimii kuitenkin virheettömästi.
+
+**Bitcoin ensimmäisenä lohkoketjuprotokollana osoittaa teknologian toimivuuden.** Jos yksittäisen yrityksen tietoturva murretaan, ei tämä automaattisesti tarkoita sitä, etteikö Internet-salaus toimisi. Yksittäisten tokenpörssien tietoturvaongelmat eivät ole rinnastettavissa lohkoketjuteknologian turvallisuuteen. Tokenpörssien ja -lompakkopalveluiden tietoturvamurroille on ominaista, että murron kohteena olevia yrityksiä operoidaan usein ilman lisenssejä ja toimilupia, hyvin löyhästi säännellyillä tai täysin sääntelemättömillä lainkäyttöalueilla. Coinbase, Bitstamp, Gemini, Bakkt, Fidelity Digital Assets ja muut ovat esimerkkejä tokenien säilytystä tarjoavista palveluista, jotka ovat pitäneet kiinni lainsäädännöllisistä vaatimuksista, ja joilla on menestyksekäs historia asiakkaidensa varoista huolehtimisesta.
+
+#### ​Internet-natiivit sovellukset (2014–2019)
+
+**Ethereumin lohkoketjuprotokolla laajentaa lohkoketjuteknologian soveltamismahdollisuuksia.** Tämän seurauksena alalle tulee paljon uusia kehittäjiä. Ethereumin lohkoketjuprotokollan ohjelmoitavuus on rajaton (toisin kuin Bitcoinin, jonka ohjelmoitavuus on tietoisesti rajattu). Ethereumin lohkoketjuprotokolla mahdollistaa lohkoketjupohjaisten palveluiden tuottamisen kaikille Internet-sovelluksille. Ethereumin monipuolisuus houkuttelee useita kehittäjiä lohkoketjuteknologian pariin, ja uusien kehittäjien luomat sovellukset vauhdittavat ammattimaisten sijoittajien kiinnostusta lohkoketjuteknologiaa kohtaan.
+
+**Perinteiset teknologia-, pankki- sekä rahoitusalan toimijat tekevät merkittäviä sijoituksia lohkoketjuteknologiaan.** Ammattimaisen sijoittajakunnan mukaantulo nostaa tokenien säilytystä ja kaupankäyntiä tarjoavien palveluntarjoajien laatua huomattavasti. Institutionaaliset sijoittajat edellyttävät säänneltyjä ja turvallisia tapoja järjestää tokeneihin keskittynyttä sijoitustoimintaansa. Monet globaalisti tunnetut finanssialan toimijat investoivat yrityksiin, jotka tarjoavat säänneltyjä kaupankäyntialustoja ja säilytyspalveluja tokeneille. Yksi tunnetuimmista esimerkeistä on New Yorkin pörssin (NYSE) emoyhtiön Intercontinental Exchangen syyskuussa 2019 lanseeraama institutionaalisille sijoittajille suunnattu tokenpörssi, Bakkt. Coinbaselle myönnetään samanaikaisesti New Yorkin osavaltion pankkilakien mukainen toimiluvallisen säilytysyhteisön (Qualified Custodian) luokitus. Jo yli 20 tokenien säilytystä tarjoavalla toimijalla on New Yorkin pankkilakien (New York Banking Law § 100) mukainen toimiluvallisen säilytysyhteisön asema. Tämän lisäksi vastaavan lainsäädännöllisen statuksen saa myös moni muu tokenien kaupankäyntialusta.
+
+* **Anchorage**. Anchorage on vuonna 2017 perustettu South-Dakotan finanssiviranomaisen kanssa rekisteröity tokeneiden säilytysyhteisö. Yhtiö on kerännyt $40 miljoonan rahoituksen monelta johtavalta institutionaaliselta sijoittajalta ml. Visa, Khosla Ventures ja Andreessen Horowitz. Yhtiö tarjoaa sen käyttäjille mahdollisuuden ostaa mm. Stellar ja Edgeware tokeneita. Anchoragen suunnitelmana on tukea kaikkia tokeneita tulevaisuudessa.
+* **Bakkt**. Bakkt on New Yorkin osavaltioon rekisteröity kaupankäyntialusta, joka aloitti toimintansa syyskuussa 2019. Bakktin omistaa Intercontinental Exchange (ICE), joka on myös New York Stock Exchangen (NYSE) emoyhtiö. Bakkt on lisäksi kehittämässä maksupalvelua, jonka avulla kuluttajat voivat käyttää tokeneita arjen ostoksissaan. Maksupalvelua rakennetaan yhteistyössä mm. Starbucksin kanssa.
+* **BitGo**. BitGo on South-Dakotan finanssiviranomaisen kanssa rekisteröity tokenien säilytysyhteisö. Yhtiön rahoittajiin kuuluu mm. Goldman Sachs ja Galaxy Digital. BitGo aloitti toimintansa vuonna 2014 ja on yhdessä Coinbasen kanssa yksi arvostetuimmista tokeneiden säilytysyhteisöistä. BitGo:n tarjoama vakuutus kattaa tietomurroista, sisäisistä varkauksista, tai salausavaimien menetyksestä johtuvat vahingot aina $100 miljoonaan asti. BitGo tukee tällä hetkellä yli 100 tokenia.
+* **Bitstamp**. Bitstamp on vuonna 2011 perustettu tokenien kaupankäyntialusta. Bitstamp tukee Bitcoin, Ethereum, Bitcoin Cash, Ripple ja Litecoin tokeneita. Bitstampilla on Luxemburgin finanssiviranomaisen myöntämä lupa toimia maksulaitoksena EU:ssa. Belgialainen sijoitusyhtiö NXMH osti Bitstampin lokakuussa 2018.
+* **Circle**. Circle on vuonna 2013 perustettu tokeneihin keskittyvä palveluntarjoaja. Circle on kerännyt $135 miljoonaa rahoitusta ja sen yhtenä pääomistajana on Goldman Sachs. Circlen tarjoamiin palveluihin kuuluu hintavakaa USDC-token (jonka arvo on sidottu dollariin), Poloniex kaupankäyntialusta, sekä tokenien OTC-palvelut. Circle oli ensimmäinen kaupankäyntialusta, joka sai New Yorkin osavaltion finanssiviranomaisen (NYDFS) myöntämän BitLicense-toimiluvan vuonna 2015.
+* **Coinbase.** Coinbase on vuonna 2012 perustetttu tokenien kaupankäynti- ja säilytysalusta. Coinbasen palvelut säilyttävät yli $20 miljardin edestä tokeneita. Coinbase on viimeisen 7 vuoden aikana kerännyt yli $500 miljoonan rahoituksen monelta merkittävältä sijoittajalta ml. Andreessen Horowitz, BBVA Ventures, Bank of Tokyo, NYSE, ja USAA.
+* **ErisX**. ErisX on TD Ameritraden rahoittama institutionaalisille sijoittajille suunnattu kaupankäyntialusta. ErisX tukee Bitcoin, Ethereum, Bitcoin Cash ja Litecoin tokeneita. Yhdysvaltojen hyödyke- ja futuurikauppaa valvova viranomainen (CFTC) myönsi kesällä 2019 ErisX:lle toimiluvan tarjota tokenfutuureja. Palvelu on toistaiseksi tarjolla vain suljetulle asiakasryhmälle.
+* **Fidelity Digital Assets**. Fidelity Digital Assets on Fidelityn institutionaalisille asiakkaille suunnattu tokeneiden säilytysyhteisö ja kaupankäyntialusta. Fidelity Digital Assets avattiin vuoden 2019 alussa. Palvelu tukee toistaiseksi Bitcoin ja Ethereum tokeneita.
+* **Gemini**. Gemini on vuonna 2015 perustettu kaupankäyntialusta. Gemini tukee Bitcoin, Ethereum, Bitcoin Cash, Litecoin, ja Zcash tokeneita. Yhtiön muuhun palveluntarjontaan kuuluu hintavakaa token GUSD (jonka arvo on sidottu dollariin) ja syyskuussa 2019 avattu Gemini Custody. Gemini Custody on NYDFS:n hyväksymä toimiluvallinen säilytysyhteisö. Gemini Custody tukee tällä hetkellä 18 eri tokenia.
+* **Tagomi Systems**. Tagomi Systems on institutionaalisille sijoittajille suunnattu tokenien välityspalvelu, joka aloitti toimintansa vuoden 2018 loppupuolella. Tagomi tarjoaa asiakkailleen palveluita myös tokenlainoille ja niiden lyhyeksi myyntiin. Tagomi on kerännyt $27 miljoonan rahoituksen johtavilta pääomasijoittajilta ml. Pantera Capital ja Founders Fund. NYDFS myönsi Tagomille toimiluvan toimia tokeneiden kaupankäyntialustana maaliskuussa 2019.
+
+**Julkiset ja maailmanlaajuiset tokenien liikkeeseenlaskut (ICO) herättävät lainsäätäjien huomion.** Lohkoketjuprotokollien ohjelmoitavuutta käytetään aluksi maailmanlaajuisiin kuluttajille suunnattuhin varainkeruukampanjoihin. Yhdysvalloissa lainvastaisiin varainkeruukampanjoihin kantaa ottavat sekä Securities and Exchange Commission (SEC) että Commodity Futures Trading Commission (CFTC). Suomessa Finanssivalvonta (Fiva) julkaisee oman kuluttajille suunnatun ICO:ja koskevan tarkastuslistan. EU:ssa European Securities and Markets Authority (ESMA) julkaisee suosituksensa ICO:jen lainsäädännölliseen tulkintaan. Koska kuka tahansa voi rakentaa loppukäyttäjille suunnatun sovelluksen lohkoketjuprotokollien tuottamien avointen palvelujen päälle, on todennäköistä, että markkinavoimat ohjaavat suurimman rahaliikenteen niihin sovelluksiin, jotka toimivat kuluttajien etujen mukaisesti. Vaikka säännöt ohjelmoidaankin nyt suoraan lohkoketjuprotokolliin, tulee sovellusten toimintalogiikka vastaamaan maailmanlaajuisesti omaksuttuja parhaita käytäntöjä.
+
+#### ​Internet-natiivi talous (2020-)
+
+**Uudet turvalliset ja helppokäyttöiset fiat-token kauppapaikat mahdollistavat maailmanlaajuisen osallistumisen lohkoketjuprotokolliin.** Moni käyttäjä pystyy jo nyt ostamaan tokeneita fiat-token kaupankäyntiin erikoistuneilta palveluntarjoajilta. Hintavakaiden tokenien integroiminen sovelluksiin poistaa volatiliteettiriskin loppukäyttäjille suunnatuista sovelluksista. Bakkt:in ja Fidelityn kaltaisten säänneltyjen toimijoiden mukaantulo vauhdittaa institutionaalisten sijoittajien intoa osallistua lohkoketjuprotokolliin. Seuraavana suurempana edistysaskeleena odotetaan perinteisten vakuutusalan toimijoiden mukaantuloa lohkoketjualalle.
+
+**Kehitteillä olevat lohkoketjuprotokollien skaalausratkaisut osoittavat toimivuutensa.** Nykyisellään lohkoketjuprotokollat pystyvät prosessoimaan n. 10–20 transaktiota per sekunti. Lohkoketjuprotokollien skaalaus on alan keskeisimpiä tutkimuskysymyksiä. Jo esitettyjen ratkaisujen pitäisi parantaa lohkoketjuprotokollien prosessointikykyä noin satakertaisesti lähitulevaisuudessa. Tilanne vastaa 90-luvun puolivälissä käytyä keskustelua Internetin skaalautuvuudesta. Skaalautuvuuden ratkaisijoille oli tarjolla sen verran merkittävä taloudellinen kannustin, ettei se lopulta osoittautunutkaan mahdottomuudeksi. Lohkoketjuprotokollien osalta taloudellinen kannustin on vähintäänkin yhtä suuri.
+
+**Sovelluskehittäjät luovat helppokäyttöisiä sovelluksia loppukäyttäjille.** Sähköpostia käyttävän henkilön ei tarvitse ymmärtää, miten Internet-protokollat toimivat. Syy miksi lohkoketjuprotokollien käytettävyys saa nykyisellään kritiikkiä on se, ettei lohkoketjuprotokollien päälle rakennettujen sovellusten ole vielä ollut mahdollista piilottaa kaikkea kompleksisuutta loppukäyttäjiltä. Ensimmäisessa vaiheessa Internet-natiivin talouden ydininfrastruktuuri vakiinnuttaa paikkansa uudessa Internet-arkkitehtuurissa. Tämän jälkeen kehittäjien taloudellisessa intressissä on siirtää huomio kuluttajien käyttökokemusta parantavien sovellusten rakentamiseen.
