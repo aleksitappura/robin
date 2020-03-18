@@ -5,7 +5,7 @@ tags:
   - pinned
   - Investing
 ---
-Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/)**.
+*Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/)**.*
 
 ### Table of Contents
 
