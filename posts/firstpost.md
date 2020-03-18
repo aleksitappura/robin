@@ -1,5 +1,5 @@
 ---
-title: This is my first post
+title: TEST
 summary: Why contemplating our mortality can be a powerful catalyst for change
 date: 2015-01-01T00:00:00.000Z
 tags:
