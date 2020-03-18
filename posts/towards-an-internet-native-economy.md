@@ -5,7 +5,7 @@ tags:
   - post
   - pinned
 ---
-*Read the article in [Finnish](https://robincapital.co/kohti-internet-natiivia-taloutta/) or [Swedish](https://robincapital.co/mot-en-internet-nativ-ekonomi/).*
+*Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/)**.*
 
 **CYCLES OF INNOVATION IN INFORMATION TECHNOLOGY**
 
