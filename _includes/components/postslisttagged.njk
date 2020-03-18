@@ -1,0 +1,23 @@
+<section class="articles">
+
+	{% for post in postslist | reverse %}
+
+			<article{% if post.url == url %} data-current="current item"{% endif %}>
+				<p>
+					<time datetime="{{ post.date | machineDate }}">
+						{{ post.date | readableDate }}
+					</time>
+				</p>
+				<h3>
+					<a href="{{ post.url | url }}">
+						{% if post.data.title %}
+							{{ post.data.title }}
+						{% else %}
+							Untitled
+						{% endif %}
+					</a>
+				</h3>
+			</article>
+
+	{% endfor %}
+</section>
