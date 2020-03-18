@@ -161,6 +161,16 @@ html[data-current="research"] h1, .tagged-heading {
 	margin-right: 5px;
 }
 
+.image-caption {
+	margin-top: 1.5em;
+	font-size: 75%;
+	text-align: center;
+}
+
+.table-wrapper {
+	overflow-x: auto;
+}
+
 .footer {
 	margin-top: 100px;
 	border-top: 1px solid #009B64;

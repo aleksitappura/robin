@@ -33,8 +33,6 @@ Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: [Kohti Internet-Natiiv
 
 ![Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.](/static/img/ff.png "Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.")
 
-*Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.*
-
 Artikkelin ensimmäinen osa käsittelee lohkoketjualan markkinainfrastruktuurin viimeaikaista kehitystä, joka on mahdollistanut yhä useammalle institutionaaliselle sijoittajalle tokensijoittamisen. Toinen osa käsittelee tokensijoittamiseen liittyviä teknisiä ja operatiivisia lisähaasteita. Kolmannessa osassa kuvataan sijoittajille tarjolla olevia vaihtoehtoja tokensijoitustoiminnan järjestämiseksi.
 
 - - -
@@ -56,14 +54,10 @@ Esimerkkejä muista lohkoketjuteknologiaan sijoittaneista tunnetuista teknologia
 
 ![Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.](/static/img/cme.png "Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.")
 
-*Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.*
-
 Nykyisellään jo yli 20 tokenien säilytystä tarjoavalla toimijalla on New Yorkin pankkilakien (New York Banking Law § 100) mukainen toimiluvallisen säilytysyhteisön asema.
 
 Esimerkkejä toimiluvallisista palveluntarjoajista:
 
 ![Esimerkkejä säännellyistä tokenien kaupankäynti- ja säilytyspalveluntarjoajista.](/static/img/taul.png "Esimerkkejä säännellyistä tokenien kaupankäynti- ja säilytyspalveluntarjoajista.")
-
-*Esimerkkejä säännellyistä tokenien kaupankäynti- ja säilytyspalveluntarjoajista.*
 
 Tähän mennessä suurin osa lohkoketjualan institutionaalisesta sijoitusaktiviteetista on keskittynyt Yhdysvaltoihin. Euroopan investointirahasto ilmoitti vuoden 2019 lopulla [aikeestaan allokoida 400 miljoonaa euroa lohkoketjuteknologiasijoituksiin](https://ec.europa.eu/digital-single-market/en/news/eu-artificial-intelligence-and-blockchain-investment-fund-invest-100-million-euros-startups) vuonna 2020. Hankkeen taustalla on pyrkimys varmistaa, ettei Eurooppa jää uusien teknologioiden kehityksessä jälkeen Yhdysvalloista ja Aasian maista.
