@@ -1,6 +1,6 @@
 ---
 title: ' Blockchain as an Asset Class - An Introduction for Institutional Investors'
-date: 2020-03-18T19:20:48.392Z
+date: 2020-01-01T19:20:48.392Z
 tags:
   - pinned
   - Investing
