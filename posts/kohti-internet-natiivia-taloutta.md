@@ -4,7 +4,7 @@ date: 2019-11-22T17:25:55.588Z
 tags:
   - General
 ---
-*Lue artikkeli **[ruotsiksi](https://robincapital.co/mot-en-internet-nativ-ekonomi/)** tai **[englanniksi](https://robincapital.co/towards-an-internet-native-economy/)**.*
+*Lue artikkeli **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/)** tai **[englanniksi](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/)**.*
 
 ***INFORMAATIOTEKNOLOGIAN KEHITYS***
 
@@ -23,8 +23,6 @@ tags:
 * *Internet-natiivi raha (2008–2013)*
 * *Internet-natiivit sovellukset (2014–2019)*
 * *Internet-natiivi talous (2020-)*
-
-
 
 ### INFORMAATIOTEKNOLOGIAN KEHITYS
 
