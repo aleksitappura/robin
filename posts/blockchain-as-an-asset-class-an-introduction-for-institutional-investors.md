@@ -25,7 +25,7 @@ tags:
 
 This article is aimed at institutional and other professional investors who are considering making an allocation to blockchain. It examines the best practices for token investing that have been adopted by institutional investors globally. In this article, blockchain investments refer to investments in tokens. The article excludes traditional equity investments made into startups that make use of blockchain technology.
 
-*For more on blockchain technology and its development see: [Towards an Internet-Native Economy](https://medium.com/@aleksistapper/towards-an-internet-native-economy-edfa864d60f0).*
+*For more on blockchain technology and its development see: [Towards an Internet-Native Economy](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/).*
 
 ![](/static/img/screenshot-2020-03-18-at-21.22.31.png "An investor interested in the attractive risk-return profile of the new asset class needs to consider the additional technical and operational requirements that pertain to token investing.")
 
