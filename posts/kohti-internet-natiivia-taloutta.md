@@ -2,8 +2,7 @@
 title: Kohti Internet-natiivia taloutta
 date: 2019-11-22T17:25:55.588Z
 tags:
-  - post
-  - ''
+  - General
 ---
 *Lue artikkeli **[ruotsiksi](https://robincapital.co/mot-en-internet-nativ-ekonomi/)** tai **[englanniksi](https://robincapital.co/towards-an-internet-native-economy/)**.*
 
