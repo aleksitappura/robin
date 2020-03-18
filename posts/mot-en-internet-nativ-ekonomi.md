@@ -4,7 +4,7 @@ date: 2019-11-22T17:41:03.049Z
 tags:
   - General
 ---
-*Läs artikeln på[ **finska**](https://robincapital.co/kohti-internet-natiivia-taloutta/) eller **[engelska](https://robincapital.co/towards-an-internet-native-economy/)**.*
+*Läs artikeln på **[finska](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)** eller **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/)**.*
 
 ***INFORMATIONSTEKNOLOGINS UTVECKLING***
 
@@ -23,8 +23,6 @@ tags:
 * ​*En Internet-nativ valuta (2008–2013)*
 * *​Internet-nativa applikationer (2014–2019)*
 * *​En Internet-nativ ekonomi (2020-)*
-
-
 
 ### INFORMATIONSTEKNOLOGINS UTVECKLING
 
