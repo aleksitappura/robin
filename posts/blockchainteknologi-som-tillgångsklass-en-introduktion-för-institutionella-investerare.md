@@ -4,7 +4,7 @@ date: 2020-01-01T19:04:01.316Z
 tags:
   - Investing
 ---
-Läs artikeln på engelska eller finska.
+*Läs artikeln på **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** eller **[finska](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)**.*
 
 ### Innehållsförteckning
 
