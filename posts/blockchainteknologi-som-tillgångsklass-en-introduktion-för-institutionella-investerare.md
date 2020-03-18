@@ -24,7 +24,7 @@ tags:
 
 Denna artikel riktar sig till institutionella samt andra professionella investerare som överväger att investera i blockchainteknologi. Artikeln behandlar internationellt antagen praxis bland institutionella investerare som valt att investera i tokens. I denna artikel används termen blockchaininvestering för att hänvisa till investeringar i tokens. Artikeln behandlar därmed inte aktieinvesteringar i traditionella bolag som använder sig av blockchainteknologi.
 
-*Läs mer om blockchainteknologi och dess utveckling: Mot en Internet-nativ ekonomi.*
+*Läs mer om blockchainteknologi och dess utveckling: [Mot en Internet-nativ ekonomi](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/).*
 
 ![](/static/img/screenshot-2020-03-18-at-21.01.50.png "En investerare som är intresserad av den attraktiva risk-avkastningsprofilen för den nya tillgångsklassen bör ta i beaktande de tekniska och operativa utmaningarna som hänför sig till tokeninvesteringar.")
 
