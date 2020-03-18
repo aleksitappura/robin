@@ -6,7 +6,7 @@ date: 2022-01-01T17:59:19.729Z
 tags:
   - Investing
 ---
-*Lue raportti **[englanniksi](https://robincapital.co/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).***
+*Lue raportti **[englanniks](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)i** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).***
 
 **Yhteenveto**
 
