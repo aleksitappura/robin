@@ -156,6 +156,11 @@ html[data-current="research"] h1, .tagged-heading {
 	margin: 0 10px 10px 0;
 }
 
+.pinned-icon {
+	vertical-align: -4px;
+	margin-right: 5px;
+}
+
 .footer {
 	margin-top: 100px;
 	border-top: 1px solid #009B64;

@@ -1,7 +1,9 @@
 <section class="articles">
-	{% for post in postslist | reverse %}
+
+	{% for post in collections.pinned | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
 			<p>
+				<svg class="pinned-icon" width="10" height="20" xmlns="http://www.w3.org/2000/svg"><path d="M10 20l-5-4.39L0 20V0h10z" fill="#000" fill-rule="nonzero"/></svg>
 				<time datetime="{{ post.date | machineDate }}">
 					{{ post.date | readableDate }}
 				</time>
@@ -16,5 +18,27 @@
 				</a>
 			</h3>
 		</article>
+	{% endfor %}
+
+
+	{% for post in postslist | reverse %}
+
+			<article{% if post.url == url %} data-current="current item"{% endif %}>
+				<p>
+					<time datetime="{{ post.date | machineDate }}">
+						{{ post.date | readableDate }}
+					</time>
+				</p>
+				<h3>
+					<a href="{{ post.url | url }}">
+						{% if post.data.title %}
+							{{ post.data.title }}
+						{% else %}
+							Untitled
+						{% endif %}
+					</a>
+				</h3>
+			</article>
+
 	{% endfor %}
 </section>
