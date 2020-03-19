@@ -2,7 +2,7 @@
 title: Why Crypto Unlocks Innovation on the Internet
 date: 2019-07-11T09:04:10.322Z
 tags:
-  - Pinned
+  - pinned
   - General
 ---
 All digital services today are powered by privately-owned [databases](https://medium.com/@henri_43038/lohkoketjuteknologiassa-on-kyse-tietokantavallankumouksesta-c19606e54b0f). Crypto enables a new way to build and maintain databases. In crypto, digital services are built on top of decentralised database protocols operated by a community of network participants.
@@ -32,8 +32,6 @@ This post is divided into six main sections:
 
 ![](/static/img/screenshot-2020-03-19-at-12.08.43.png "Source: Chris Dixon, What’s Next in Computing (2016).")
 
-
-
 * **New computing platforms enable novel applications.** New computing platforms offer unique capabilities that enable developers and entrepreneurs to re-imagine entire industries and create new ones.
 * **We have seen many examples of this in information technology.** In the 1980s, PCs enabled the creation of personal tools such as word processors, spreadsheets, and other desktop applications. The Internet connected these computers by offering a global information distribution network, turning prior tools into collaborative services such as search engines, social networks, and e-mail. Smartphones in turn made these services ubiquitous, adding camera and GPS capabilities.
 * **Crypto is a new computing platform for Internet-native finance.** Crypto enables financial transactions with email-like efficiency. These transactions are facilitated by collectively-owned open databases. As an Internet-native technology, crypto applications receive global distribution from day one.
@@ -49,8 +47,6 @@ This post is divided into six main sections:
 #### Open-Source Software Compounds Innovation
 
 ![](/static/img/screenshot-2020-03-19-at-12.09.12.png "Source: Github Octoverse.")
-
-
 
 * **Open-source software compounds innovation.** The open-source software movement was started by a fringe group of researchers in the 1980’s. Today, 97% of businesses use open-source software. Android is built on Linux, the most popular open-source operating system. In 2018, IBM acquired Red Hat for $33.4 billion and Microsoft acquired Github for $7.5 billion.
 * **Open-source software benefits the entire technology industry.** The fact that anyone globally can contribute to and improve existing software results in fast-paced innovation. Developers can incorporate existing software into their products and services.
@@ -78,8 +74,6 @@ This post is divided into six main sections:
 
 ![](/static/img/screenshot-2020-03-19-at-12.09.42.png "Source: Ben Thompson, Aggregation Theory (2015).")
 
-
-
 * **Internet protocols required privately-owned third-party databases to reach their full potential.** All Internet services rely on the ability to store data from prior activity. For example, it would be impossible to maintain a record of a user’s social network without access to previously established contacts.
 * **Entrepreneurs saw great potential in aggregating data.** Privately-owned databases keep a record of the activity on the Internet. This data is filtered and sorted to create user-friendly applications. The better the user experience, the more users are attracted to a service, leading to more data being gathered. This pattern resulted in a virtuous cycle whereby a handful of technology companies became data monopolies.
 * **Crypto protocols store data in collectively-owned databases.** Crypto protocols can be used as open databases for applications. Instead of companies aggregating the data, it is aggregated at the protocol-level and becomes shared infrastructure. Applications and users can tap into and benefit from the same data store.
@@ -88,8 +82,6 @@ This post is divided into six main sections:
 
 ![](/static/img/screenshot-2020-03-19-at-12.09.53.png "Source: NFX, The Network Effects Manual: 13 Different Network Effects (2018).")
 
-
-
 * **Data monopolies became the gatekeepers of the internet.** What started out as a decentralised network, effectively became a network controlled by a handful of large technology companies. Google and Facebook now have direct influence of over 70%+ of all Internet traffic. Due to that influence, startups spend almost 40 cents of every VC dollar on Google, Facebook, and Amazon to acquire customers.
 * **Users find the most value plugging into existing services with prior network effects.** Large technology companies (GAFA) are able to offer their users access to a network of billions of relevant counterparties (users, suppliers, customers, service providers etc.). In addition, they are able to offer an unparallelled user experience because of the user data they have accumulated.
 * **Lack of competition stifles innovation on the Internet.** Gatekeepers used to attempt to compete, and this competition kept the Internet market diverse. Today, most of these companies dominate their respective parts of the Internet. As a result, consumers are losing diversity of choices.
@@ -97,8 +89,6 @@ This post is divided into six main sections:
 #### The Lack of a Native Payment Layer Set Constraints on Possible Business Models on the Internet
 
 ![](/static/img/screenshot-2020-03-19-at-12.10.05.png "Source: Connie Chan, When Advertising Isn’t Enough (2018).")
-
-
 
 * **The lack of a native payment layer set constraints on possible business models on the Internet.** Today, companies often focus either on the attention economy or the wallet economy. The former are often data marketplaces that emphasise engagement and monetise via advertisements (Facebook, Twitter, Snapchat), whereas the latter are often content and product marketplaces that monetise via transactions (Amazon) and/or subscriptions (Spotify, Netflix). The main sources of revenue for Internet companies have become concentrated.
 * **Existing payment infrastructure does not support frictionless payments.** Currently, the brick-and-mortar payment methods that have been ported on to the Internet make small and continuous payments infeasible. Seamless payments would give product developers more accurate data on what users value. In addition, traditional payment rails offer poor security guarantees.
@@ -110,8 +100,6 @@ This post is divided into six main sections:
 
 ![](/static/img/screenshot-2020-03-19-at-12.10.18.png "Source: Scott Kupor, On Startups, Platforms, and Innovation (2019).")
 
-
-
 * **The leading technology companies are platforms.** They are two-sided marketplaces that connect users and services. Platforms thrive on network effects and user-generated content. For service providers, platforms enable cost-efficient customer acquisition. For users, platforms curate and provide access to high-quality service providers.
 * **Platforms have capital efficient business models.** Uber is the most valuable taxi company without owning a single car. Airbnb is the biggest hospitality service without owning any real estate. Spotify is a marketplace for music where all the content is generated by artists. Youtube is the largest video streaming service without any proprietary content.
 * **Platforms rely on network effects and user-generated content without rewarding their users.** The typical lifecycle of a platform is to raise venture capital funding to acquire users and boost network effects. In turn, a platform’s users make the service more compelling for new service providers and users. Once the platform reaches critical mass, companies are able to extract rent on the platform activity in perpetuity.
@@ -119,8 +107,6 @@ This post is divided into six main sections:
 #### A Platform’s Relationship to Third-Party Complements Changes over Time
 
 ![](/static/img/screenshot-2020-03-19-at-12.10.37.png "Source: Chris Dixon, Why Decentralization Matters (2018).")
-
-
 
 * **A platform’s relationship to third-party complements changes over time.** Successful platforms tend to follow a similar pattern in their adoption. As platforms move up the adoption S-curve, their power over users and third-parties grows steadily. When they hit the top of the S-curve, their relationship with network participants changes from cooperation to competition.
 * **Centralised platforms start as recruiters and end up as value extractors.** In the beginning, platforms need to recruit users and third-party complements like developers, businesses, and media organisations to make the service more valuable to users. Once a platform reaches critical mass, the natural path to grow the business is to compete with complements for market share.
@@ -139,8 +125,6 @@ This post is divided into six main sections:
 #### Crypto Protocols Are New Internet Infrastructure
 
 ![](/static/img/screenshot-2020-03-19-at-12.11.05.png "Source: Emre Tekisalp, Understanding Web 3 — A User Controlled Internet (2018).")
-
-
 
 * **Crypto protocols are new Internet infrastructure.** Crypto protocols add open data layers to the current Internet protocol suite. Business logic previously performed by companies can now be directly programmed into the protocol. Crypto protocols are owned, maintained, and operated by a network of online participants instead of a centralised company.
 * **Crypto protocols are permissionless platforms for developers to build on.** Developers can now build their application on a shared data layer through APIs that are not controlled by a centralised company. Applications and users have equal access to a shared data store.
@@ -167,8 +151,6 @@ This post is divided into six main sections:
 #### Ethereum Enables the Creation of Smart Contracts
 
 ![](/static/img/screenshot-2020-03-19-at-12.11.38.png "Source: Ethereum, A Next-Generation Smart Contract and Decentralized Application Platform (2014).")
-
-
 
 * **Ethereum enables the creation of smart contracts.** Smart contracts are common goods embedded into the Ethereum blockchain. Their pre-programmed functionalities are available for anyone to interact with in exchange for payment.
 * **Developers realised the potential of programmable money.** Bitcoin can be thought of as a calculator, capable of performing simple functions, whereas Ethereum is more like a computer, capable of executing arbitrarily complex transaction logic.
@@ -202,8 +184,6 @@ This post is divided into six main sections:
 
 ![](/static/img/screenshot-2020-03-19-at-12.12.31.png "Source: Joel Monegro, Fat Protocols (2016).")
 
-
-
 * **Value creation and value capture will shift from company shares to protocol tokens.** Crypto protocols are able to perform many of the value-adding functions previously performed by centralised companies.
 * **Crypto protocols aggregate value by charging fees for the functionality they provide.** As crypto protocols enable the creation of better services (cheaper, faster, and more secure) for consumers, they are likely to capture a majority of all financial activity that occurs on the Internet.
 * **Crypto represents the biggest revolution in information technology since the Internet.** Crypto protocols may become ubiquitous in the same way as TCP/IP or SMTP, protocols that all of today’s major Internet applications rely on. However, in contrast to TCP/IP or SMTP, it is possible to own shares of crypto protocols and benefit financially from all of the traffic they facilitate in the future.
@@ -226,8 +206,7 @@ This post is divided into six main sections:
 
 ![](/static/img/screenshot-2020-03-19-at-12.13.12.png "Source: Alistair Milne, Coinbase Data.")
 
-#### \
-ETH Locked in Decentralised Finance Protocols
+#### ETH Locked in Decentralised Finance Protocols
 
 ![](/static/img/screenshot-2020-03-19-at-12.13.22.png "Source: Mike McDonald, ETH Locked in Defi.")
 
