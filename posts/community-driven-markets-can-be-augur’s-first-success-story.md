@@ -2,7 +2,9 @@
 title: Community-driven markets can be Augur’s first success story
 date: 2019-02-22T08:51:00.000Z
 tags:
-  - post
+  - Augur
+  - Project-specific
+  - English
 ---
 *This post is focused on why the ability to create markets is such an interesting feature of the Augur protocol. For a deep-dive into how Augur works, I recommend reading the [project’s whitepaper](https://www.augur.net/whitepaper.pdf).*
 
