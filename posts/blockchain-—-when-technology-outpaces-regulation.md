@@ -1,5 +1,5 @@
 ---
-title: Blockchain — When Technology Outpaces Regulation
+title: When Technology Outpaces Regulation
 date: 2020-03-19T09:37:22.556Z
 tags:
   - Regulation
