@@ -2,7 +2,7 @@
 title: >-
   Lohkoketjuteknologia omaisuusluokkana — Johdanto institutionaalisille
   sijoittajille
-date: 2022-01-01T17:59:19.729Z
+date: 2020-01-01T17:59:00.000Z
 tags:
   - Investing
 ---
