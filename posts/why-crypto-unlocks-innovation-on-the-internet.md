@@ -17,16 +17,16 @@ It is becoming increasingly clear that these building blocks continue to attract
 
 ### Overview
 
-This post is divided into six main sections:
+**This post is divided into six main sections:**
 
-1. Cycles of Innovation in Information Technology
-2. History of the Internet
-3. The API Economy
-4. The Fundamentals of Crypto
-5. The Potential of Crypto
-6. Relevant Adoption Metrics
+1. **Cycles of Innovation in Information Technology**
+2. **History of the Internet**
+3. **The API Economy**
+4. **The Fundamentals of Crypto**
+5. **The Potential of Crypto**
+6. **Relevant Adoption Metrics**
 
-### Cycles of Innovation in Information Technology
+### 1. Cycles of Innovation in Information Technology
 
 #### New Computing Platforms Enable Novel Applications
 
@@ -52,7 +52,7 @@ This post is divided into six main sections:
 * **Open-source software benefits the entire technology industry.** The fact that anyone globally can contribute to and improve existing software results in fast-paced innovation. Developers can incorporate existing software into their products and services.
 * **Crypto enables global coordination of open-source development.** Instead of companies coordinating and economically incentivising open-source development, crypto enables monetisation of software directly from the protocol. Embedding economic incentives supercharges open-source development.
 
-### **History of the Internet**
+### **2. History of the Internet**
 
 #### The Internet Started out as a Research Project, the Aim Was to Create an Open and Decentralised Communication Network
 
@@ -94,7 +94,7 @@ This post is divided into six main sections:
 * **Existing payment infrastructure does not support frictionless payments.** Currently, the brick-and-mortar payment methods that have been ported on to the Internet make small and continuous payments infeasible. Seamless payments would give product developers more accurate data on what users value. In addition, traditional payment rails offer poor security guarantees.
 * **Traditional payment rails hurt the user experience on the Internet.** An increasing number of advertisements has made many applications and services difficult to use. Extreme targeting in advertising hurts privacy and the software is often malicious. Subscription-based revenue models lock users into overly broad service offerings. Users are forced to sign up for monthly or annual subscription plans — many forget to cancel their subscriptions once they quit using the product or service.
 
-### The API Economy
+### 3. The API Economy
 
 #### The Leading Technology Companies Are Platforms
 
@@ -120,7 +120,7 @@ This post is divided into six main sections:
 * **Modularity is mutually beneficial for technology companies.** Many functionalities are often impractical to build from the ground up, which is why companies tend to rely on other service providers for many of their core features.
 * **Crypto protocols replace traditional APIs by provisioning a cheaper and more reliable service.** API access is costly to maintain. For example, Uber paid $58 million for the right to use Google Maps from 2016 to 2018. An API provider’s unilateral right to change data access rights creates an inherent platform risk for third-party application developers. When building on top of crypto protocols, developers do not have to worry about sudden changes to data access rights. Open infrastructure eliminates platform risk for third-party developers.
 
-### **The Fundamentals of Crypto**
+### **4. The Fundamentals of Crypto**
 
 #### Crypto Protocols Are New Internet Infrastructure
 
@@ -146,7 +146,7 @@ This post is divided into six main sections:
 * **The Bitcoin protocol is a solution for bypassing intermediaries.** Without the need for trusted third-parties, money on the Internet becomes secure and transactions across borders become effortless.
 * **The traditional financial infrastructure has inherent friction.** All banks maintain their own internal transaction databases. Bitcoin offers an alternative by functioning as a single, shared, and open transaction database. As a result, money can now be sent and received across the globe with email-like efficiency.
 
-### The Potential of Crypto
+### 5. The Potential of Crypto
 
 #### Ethereum Enables the Creation of Smart Contracts
 
@@ -188,7 +188,7 @@ This post is divided into six main sections:
 * **Crypto protocols aggregate value by charging fees for the functionality they provide.** As crypto protocols enable the creation of better services (cheaper, faster, and more secure) for consumers, they are likely to capture a majority of all financial activity that occurs on the Internet.
 * **Crypto represents the biggest revolution in information technology since the Internet.** Crypto protocols may become ubiquitous in the same way as TCP/IP or SMTP, protocols that all of today’s major Internet applications rely on. However, in contrast to TCP/IP or SMTP, it is possible to own shares of crypto protocols and benefit financially from all of the traffic they facilitate in the future.
 
-### **Relevant Adoption Metrics**
+### **6. Relevant Adoption Metrics**
 
 #### Monthly Downloads of the Ethereum Development Framework Truffle
 
