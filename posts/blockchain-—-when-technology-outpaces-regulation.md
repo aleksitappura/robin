@@ -1,6 +1,6 @@
 ---
 title: When Technology Outpaces Regulation
-date: 2020-03-19T09:37:22.556Z
+date: 2019-09-26T08:37:00.000Z
 tags:
   - Regulation
   - English
