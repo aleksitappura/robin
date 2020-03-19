@@ -4,6 +4,7 @@ date: 2019-03-07T09:00:00.000Z
 tags:
   - Project-specific
   - Finnish
+  - Uniswap
 ---
 Launched on the Ethereum mainnet in November 2018, Uniswap is a relative newcomer to the growing suite of decentralised exchange protocols. Despite its newness, Uniswap is already facilitating [trading volumes](https://www.coindesk.com/bancor-uniswap-dex-competition) exceeding established decentralised exchange projects like Bancor, which launched in 2017.
 
