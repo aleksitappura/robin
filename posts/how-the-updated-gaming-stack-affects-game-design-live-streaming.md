@@ -14,7 +14,7 @@ This post explores how live streaming impacts game design. Future posts will cov
 
 ### Live Streaming
 
-Live streaming is the broadcasting of live video on streaming platforms such as Twitch, Mixer, or Huya**.** Modern live streaming got its start in 2007 with the introduction of Justin.tv, where founder Justin Kan largely focused on [lifecasting](https://en.wikipedia.org/wiki/Lifestreaming#Lifecasting) before later finding product-market-fit with the platform’s gaming section. This gaming section spun out in 2011 and became Twitch. Today, Twitch has 15 million monthly active users who watch an average of 700K+ hours of content each month spread across a wide variety of gaming-related (and non-gaming) streams that can be categorised as follows:
+Live streaming is the broadcasting of live video on streaming platforms such as Twitch, Mixer, or Huya. Modern live streaming got its start in 2007 with the introduction of Justin.tv, where founder Justin Kan largely focused on [lifecasting](https://en.wikipedia.org/wiki/Lifestreaming#Lifecasting) before later finding product-market-fit with the platform’s gaming section. This gaming section spun out in 2011 and became Twitch. Today, Twitch has 15 million monthly active users who watch an average of 700K+ hours of content each month spread across a wide variety of gaming-related (and non-gaming) streams that can be categorised as follows:
 
 1. Esports tournaments organised by independent (e.g. [ESL](https://www.eslgaming.com/)) or publisher-run (e.g. [Overwatch League](https://www.overwatchleague.com/en-us/)) esports leagues;
 2. Casual gameplay and community engagement, usually by major streaming persona/creators; and
