@@ -10,7 +10,7 @@ Launched on the Ethereum mainnet in November 2018, Uniswap is a relative newcome
 
 At the moment, there’s tremendous excitement around Uniswap. [Vitalik Buterin has expressed](https://twitter.com/VitalikButerin/status/1069573067930824705) his enthusiasm towards the project, and he’s not alone as Uniswap is trending topic on crypto Twitter right now. Over $6 million in Ethereum and ERC20 tokens is locked up in the protocol, and at its current growth rate, Uniswap is the [fastest growing](https://defipulse.com/) open finance protocol on most days.
 
-![]( "Uniswap is growing quickly.")
+![](/static/img/uniswap_growth.png "Uniswap is growing quickly.")
 
 ### **How Uniswap Works**
 
@@ -20,7 +20,7 @@ Every liquidity reserve is an exchange smart contract that holds some quantity o
 
 For example, a DAI/ETH reserve initially set up with 150,000 DAI and 1,000 ETH creates a price point of 150 DAI/ETH. If a user intends to buy 10,000 DAI from the DAI/ETH reserve, they are increasing the quantity of ETH in the reserve and removing DAI from it — thus, placing downward pressure on the DAI/ETH ratio and increasing the price of DAI.
 
-![]( "ERC20 to ERC20 swaps in Uniswap. Image source: https://docs.uniswap.io/.")
+![](/static/img/uniswap_works.png "ERC20 to ERC20 swaps in Uniswap. Image source: https://docs.uniswap.io/.")
 
 An important detail to note is that price depends on the size of the order relative to the size of the DAI/ETH reserve. Uniswap’s market making model will always provide liquidity, meaning reserves will never be depleted. To understand the details of Uniswap’s market making formula, I recommend [Cyrus Younessi’s article](https://medium.com/@cyrus.younessi/uniswap-a-unique-exchange-f4ef44f807bf).
 
