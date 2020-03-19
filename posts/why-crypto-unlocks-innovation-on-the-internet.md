@@ -5,7 +5,7 @@ tags:
   - pinned
   - General
 ---
-All digital services today are powered by privately-owned [databases](https://medium.com/@henri_43038/lohkoketjuteknologiassa-on-kyse-tietokantavallankumouksesta-c19606e54b0f). Crypto enables a new way to build and maintain databases. In crypto, digital services are built on top of decentralised database protocols operated by a community of network participants.
+All digital services today are powered by privately-owned databases. Crypto enables a new way to build and maintain databases. In crypto, digital services are built on top of decentralised database protocols operated by a community of network participants.
 
 In only a few decades, the Internet went from a highly decentralised architecture to one controlled by a few powerful gatekeepers. This created monopolies, limited access for developers, and ultimately slowed down innovation.
 
