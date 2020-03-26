@@ -1,9 +1,9 @@
 {
   "title": "Robin Capital",
   "description": "Venture capital for the digital asset class.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "url": "robincapital.co",
   "author": {
     "name": "Robin Capital",
-    "email": "dan.urbanowicz@gmail.com"
+    "email": "aleksis@robincapital.co"
   }
 }
