@@ -1,9 +1,10 @@
 ---
-title: 'Introducing Token Terminal: Financial Metrics for Blockchain Protocols'
+title: "Introducing Token Terminal: Financial Metrics for Blockchain Protocols"
 date: 2019-11-15T09:45:00.000Z
 tags:
   - Token Terminal
   - English
+  - pinned
 ---
 **Link to[Token Terminal](http://www.tokenterminal.xyz/).**
 
