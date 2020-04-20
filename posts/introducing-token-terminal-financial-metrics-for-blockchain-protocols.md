@@ -1,12 +1,12 @@
 ---
 title: "Introducing Token Terminal: Financial Metrics for Blockchain Protocols"
-date: 2019-11-15T09:45:00.000Z
+date: 2020-01-02T09:45:00.000Z
 tags:
   - Token Terminal
   - English
   - pinned
 ---
-**Link to[Token Terminal](http://www.tokenterminal.xyz/).**
+**Link to [Token Terminal](http://www.tokenterminal.xyz/) and [project-specific research](https://medium.com/token-terminal).**
 
 **Token Terminal is a site that tracks financial metrics for blockchain protocols.**These metrics are intended to be comparable to traditional financial metrics, such as Earnings per Share and the Price to Earnings Ratio. Today, the site is launching with simple metrics on the [MakerDAO](https://makerdao.com/) and [Augur](https://www.augur.net/) protocols. Future work will be done to improve the precision of calculations, and add new metrics and blockchain protocols to the site. Note, this is an early release and the site will be continually updated.
 
