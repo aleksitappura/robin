@@ -2,8 +2,7 @@
 title: Towards an Internet-Native Economy
 date: 2019-11-22T16:56:42.038Z
 tags:
-  - General
-  - pinned
+  - English
 ---
 *Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/)**.*
 
