@@ -2,7 +2,7 @@
 title: Mot En Internet-Nativ Ekonomi
 date: 2019-11-22T17:41:03.049Z
 tags:
-  - General
+  - Swedish
 ---
 *Läs artikeln på **[finska](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)** eller **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/)**.*
 
