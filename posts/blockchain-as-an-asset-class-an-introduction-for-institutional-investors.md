@@ -6,21 +6,6 @@ tags:
 ---
 *Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/)**.*
 
-**Executive Summary**
-
-**The Development of Blockchain Technology**
-
-* The number of regulated and professional market participants is on the rise
-
-**Challenges Relating to the New Asset Class**
-
-* Token ownership is a prerequisite for capturing the potential value of blockchain technology
-* Token investing is conducted in an Internet-native environment
-
-**Token Investing in Practice**
-
-* The early stage of the token market favours a long-term approach combined with an active investment strategy
-
 ### Executive Summary
 
 This article is aimed at institutional and other professional investors who are considering making an allocation to blockchain. It examines the best practices for token investing that have been adopted by institutional investors globally. In this article, blockchain investments refer to investments in tokens. The article excludes traditional equity investments made into startups that make use of blockchain technology.
