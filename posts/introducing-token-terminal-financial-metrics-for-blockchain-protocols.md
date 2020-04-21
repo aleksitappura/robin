@@ -2,7 +2,6 @@
 title: "Introducing Token Terminal: Financial Metrics for Blockchain Protocols"
 date: 2020-01-02T09:45:00.000Z
 tags:
-  - Token Terminal
   - English
 ---
 **Link to [Token Terminal](http://www.tokenterminal.xyz/) and [project-specific research](https://medium.com/token-terminal).**
