@@ -3,24 +3,9 @@ title: " Blockchainteknologi som tillgångsklass - En introduktion för
   institutionella investerare"
 date: 2020-01-01T20:20:00.000Z
 tags:
-  - Investing
+  - Swedish
 ---
 *Läs artikeln på **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** eller **[finska](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)**.*
-
-> **Sammanfattning**
->
-> **Blockchainindustrins utveckling**
->
-> * Antalet reglerade och professionella aktörer på marknaden ökar
->
-> **Utmaningar orsakade av en ny tillgångsklass**
->
-> * För att kunna ta del av blockchainteknologins potential måste man äga tokens 
-> * Tokeninvesteringar genomförs i en Internet-nativ miljö
->
-> **Tokeninvesteringar i praktiken**
->
-> * Den tidiga utvecklingsfasen av tokenmarknaden förespråkar långsiktig och aktiv investeringsverksamhet
 
 ### Sammanfattning
 
