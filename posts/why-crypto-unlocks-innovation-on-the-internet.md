@@ -2,8 +2,7 @@
 title: Why Crypto Unlocks Innovation on the Internet
 date: 2019-07-11T09:04:10.322Z
 tags:
-  - pinned
-  - General
+  - English
 ---
 All digital services today are powered by privately-owned databases. Crypto enables a new way to build and maintain databases. In crypto, digital services are built on top of decentralised database protocols operated by a community of network participants.
 
