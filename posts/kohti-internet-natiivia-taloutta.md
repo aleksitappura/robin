@@ -2,7 +2,7 @@
 title: Kohti Internet-natiivia taloutta
 date: 2019-11-22T17:25:55.588Z
 tags:
-  - General
+  - Finnish
 ---
 *Lue artikkeli **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/)** tai **[englanniksi](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/)**.*
 
