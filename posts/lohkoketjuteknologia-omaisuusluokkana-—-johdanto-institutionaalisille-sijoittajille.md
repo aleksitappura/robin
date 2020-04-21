@@ -3,24 +3,9 @@ title: Lohkoketjuteknologia omaisuusluokkana — Johdanto institutionaalisille
   sijoittajille
 date: 2020-01-01T20:30:00.000Z
 tags:
-  - Investing
+  - Finnish
 ---
-*Lue raportti **[englanniks](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)i** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).***
-
-**Yhteenveto**
-
-**Lohkoketjualan kehitys**
-
-* Säänneltyjen ja ammattimaisten toimijoiden määrä nousussa
-
-**Uuteen omaisuusluokkaan liittyvät haasteet**
-
-* Lohkoketjuteknologian potentiaalista hyötyminen edellyttää tokeneihin sijoittamista
-* Tokensijoittaminen tapahtuu Internet-natiivissa toimintaympäristössä
-
-**Tokensijoittaminen käytännössä**
-
-* Tokenmarkkinan varhainen kehitysaste puoltaa pitkäjänteistä ja aktiivista sijoittamista
+\*Lue raportti **[englanniks](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)i** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).***
 
 ### Yhteenveto
 
