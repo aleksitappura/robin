@@ -1,9 +1,8 @@
 ---
-title: ' Blockchain as an Asset Class - An Introduction for Institutional Investors'
+title: " Blockchain as an Asset Class - An Introduction for Institutional Investors"
 date: 2020-01-01T19:20:48.392Z
 tags:
-  - pinned
-  - Investing
+  - General
 ---
 *Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/)**.*
 
