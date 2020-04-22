@@ -58,7 +58,7 @@ Exempel på andra välkända tech-investerare och traditionella finansiella a
 
   Det dagliga utvecklingsarbetet för Internet-nativa bolag bedrivs ofta på olika online-forum som t.ex. Twitter, Discord, Medium och Github. Eftersom Internet-nativa bolag bygger på öppen data och källkod kan deras verksamhet och transaktioner granskas i realtid. Förutom transaktionsaktivitet bör investeraren kunna analysera projektets utveckling och popularitet bland externa applikationsutvecklare. För att hitta relevant information och parter krävs aktivt deltagande i dessa online-gemenskap. 
 
-  ![](/static/img/screenshot-2020-04-22-at-18.17.08.png "Exempel på olika Internet-nativa bolag dvs. tokenprojekt.")
+  ![](/static/img/screenshot-2020-04-22-at-18.17.08.png "Exempel på olika Internet-nativa bolag dvs. tokenprojekt (Token Terminal).")
 
   Ett professionellt investeringsteam som specialiserat sig på blockchainteknologi har de bästa förutsättningarna att hitta de mest lovande projekten.
 
