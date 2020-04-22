@@ -1,6 +1,6 @@
 ---
 title: Towards an Internet-native economy
-date: 2019-11-22T16:56:42.038Z
+date: 2020-01-01T19:21:00.000Z
 tags:
   - English
 ---
