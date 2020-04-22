@@ -1,17 +1,15 @@
 ---
-title: " Blockchainteknologi som tillgångsklass - En introduktion för
+title: " Blockchainteknologi som tillgångsklass - en introduktion för
   institutionella investerare"
 date: 2020-01-01T20:20:00.000Z
 tags:
   - Swedish
 ---
-*Läs artikeln på **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** eller **[finska](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)**.*
-
 ### Sammanfattning
 
 Denna artikel riktar sig till institutionella samt andra professionella investerare som överväger att investera i blockchainteknologi. Artikeln behandlar internationellt antagen praxis bland institutionella investerare som valt att investera i tokens. I denna artikel används termen blockchaininvestering för att hänvisa till investeringar i tokens. Artikeln behandlar därmed inte aktieinvesteringar i traditionella bolag som använder sig av blockchainteknologi.
 
-*Läs mer om blockchainteknologi och dess utveckling: [Mot en Internet-nativ ekonomi](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/).*
+*Läs mer om blockchainteknologi och dess utveckling: Mot en Internet-nativ ekonomi.*
 
 ![](/static/img/screenshot-2020-04-22-at-11.25.06.png "En investerare som är intresserad av den attraktiva risk-avkastningsprofilen för den nya tillgångsklassen bör ta i beaktande de tekniska och operativa utmaningarna som hänför sig till tokeninvesteringar.")
 
@@ -81,5 +79,3 @@ Exempel på andra välkända tech-investerare och traditionella finansiella a
   Det tidiga utvecklingsstadiet av den nya tillgångsklassen, de juridiska spörsmålen samt den snabba utvecklingstakten förespråkar en långsiktig och aktiv investeringsstrategi. Blockchainteknologi är till sin natur mer likt Internet - en teknologi som påverkat ett flertal branscher - än någon enskild vertikal, vilket innebär att tokeninvesteringar ofta förutsätter ett specialiserat team.
 
   Av ovannämnda skäl är den vanligaste investeringsformen idag en riskkapitalfond med investeringsfokus enbart i tokens. Fondförvaltare som specialiserat sig på tokeninvesteringar är ofta yngre och enligt traditionella mått mindre erfarna än sina motparter.
-
-  ###### Innehållet i denna artikel är inte en undersökning för investeringssyfte, finansiell analys eller investeringsrådgivning, och innehållet i denna artikel bör inte tolkas som en rekommendation att köpa eller sälja aktier eller investeringar. Ingen garanti kan ges för innehållet i denna artikel. Om läsaren av denna artikel omformar åsikter angående ett aktie- eller investeringsobjekt för eventuellt investeringsbeslut, är han eller hon ensam ansvarig. I detta fall rekommenderar vi att läsaren, antingen själv eller tillsammans med sin investeringsrådgivare, söker mer information om ämnet.
