@@ -10,4 +10,4 @@ tags:
 
 **One of the more common misconceptions about tokens is that they are non-productive assets.**Blockchain protocols produce open, global, and cost-efficient services. Blockchain protocols enable worldwide marketplaces on the Internet. The rules of the value transfer are encoded straight into the blockchain protocol. The programmability of blockchain protocols means that they can be used to produce services by a peer-to peer-network directly to a global audience. A token gives its owner both economic and governance rights, similar to traditional company shares.
 
-![](/static/img/tokenterminalrobincapital.png "Blockchain protocols are cost-efficient and operate at unprecedented scale.")
+![](/static/img/screenshot-2020-04-21-at-22.31.15.png "Blockchain protocols are cost-efficient and operate at unprecedented scale.")
