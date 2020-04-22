@@ -6,13 +6,13 @@ tags:
 ---
 ***CYCLES OF INNOVATION IN INFORMATION TECHNOLOGY***
 
-* ***​**New infrastructure enables new kinds of services*
+* *New infrastructure enables new kinds of services*
 * *​Blockchain protocols produce open, global and cost-efficient services*
 * *Blockchain protocols are owned and operated by global communities*
 
 ***​BLOCKCHAIN TECHNOLOGY***
 
-* ***​**Blockchain technology enables global services*
+* *Blockchain technology enables global services*
 * *​Applications are built on top of blockchain protocols*
 * *​Examples of services provided by blockchain protocols*
 
@@ -80,7 +80,7 @@ tags:
 
 **The business logic of a service is programmed into the open source code of a blockchain protocol.** Some important parameters for the service are often left open for the tokenholders to vote on during set intervals. Anyone can use the services provided by blockchain protocols by paying a fee and/or by depositing collateral. It is the responsibility of the tokenholders to maintain the usefulness (by voting on the parameters mentioned above) and reliability (by posting their tokens as collateral) of the blockchain protocol’s service.
 
-![](/static/img/screenshot-2020-04-21-at-22.33.16.png "Examples of services provided by blockchain protocols.")
+![](/static/img/screenshot-2020-04-22-at-16.44.06.png "Examples of services provided by blockchain protocols.")
 
 ### THE DEVELOPMENT OF BLOCKCHAIN TECHNOLOGY
 
