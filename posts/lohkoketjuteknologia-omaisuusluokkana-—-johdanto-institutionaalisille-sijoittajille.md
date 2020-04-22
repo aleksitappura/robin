@@ -1,17 +1,15 @@
 ---
-title: Lohkoketjuteknologia omaisuusluokkana — Johdanto institutionaalisille
+title: Lohkoketjuteknologia omaisuusluokkana — johdanto institutionaalisille
   sijoittajille
 date: 2020-01-01T20:30:00.000Z
 tags:
   - Finnish
 ---
-Lue raportti **[englanniksi](https://suspicious-kepler-340c57.netlify.app/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).**
-
 ### Yhteenveto
 
 Tämä artikkeli on suunnattu institutionaalisille- ja muille ammattimaisille sijoittajille, jotka harkitsevat sijoitusvarallisuuden allokoimista lohkoketjuteknologiaan. Artikkeli käsittelee kansainvälisesti omaksuttuja tapoja institutionaalisen sijoittajan vaatimukset täyttävän tokensijoitustoiminnan järjestämiseksi. Lohkoketjusijoituksilla viitataan artikkelissa tokensijoituksiin. Artikkeli ei toisin sanoen käsittele oman pääoman ehtoisia sijoituksia lohkoketjuteknologiaa hyödyntävien perinteisten yritysten osakkeisiin.
 
-*Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: **[Kohti Internet-Natiivia Taloutta](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)**.*
+*Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: Kohti Internet-Natiivia Taloutta.*
 
 ![](/static/img/screenshot-2020-04-22-at-11.25.38.png "Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.")
 
@@ -79,5 +77,3 @@ Epätavanomaisten sijoituskohteiden ja sijoitusprosessin vuoksi moni perinteinen
 Uuden tokenomaisuusluokan varhainen kehitysaste, siihen liittyvät lainsäädännölliset kysymysmerkit ja nopea kehitystahti puoltavat pitkäjänteistä ja aktiivista sijoittamista. Lohkoketjuteknologia on luonteeltaan lähempänä Internetiä — teknologia, jolla oli vaikutus useaan eri toimialaan — kuin yksittäistä [vertikaalia](https://pitchbook.com/blog/what-are-industry-verticals), minkä takia sen perusteellinen ymmärtäminen edellyttää usein erikoistunutta tiimiä.
 
 Edellä mainituista syistä lohkoketjualalla yleisin sijoitusmuoto on yksinomaan lohkoketjuteknologiaan keskittyvä venture capital-rahasto. Tokensijoituksiin erikoistuneet rahastohoitajat ovat usein perinteisiä verrokkejaan nuorempia ja perinteisin mittarein kokemattomampia.
-
-###### *Tämän artikkelin sisältö ei ole sijoitustutkimusta, rahoitusanalyysiä eikä sijoitusneuvontaa, eikä artikkelin sisältöä saa tulkita minkäänlaisena suosituksena ostaa tai myydä mitään osaketta tai sijoituskohdetta. Mitään takeita tämän artikkelin sisällön oikeellisuudesta ei voida antaa. Jos tämän artikkelin lukija haluaa muodostaa jostain osakkeesta tai sijoituskohteesta mielipiteen mahdollista sijoituspäätöstä varten, vastaa hän tästä vain ja ainoastaan itse. Tässä tapauksessa suosittelemme, että lukija joko itse tai mahdollisen sijoitusneuvojansa kanssa hankkivat lisätietoa asiasta.*
