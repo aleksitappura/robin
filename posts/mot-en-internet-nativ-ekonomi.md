@@ -1,6 +1,6 @@
 ---
 title: Mot en Internet-nativ ekonomi
-date: 2019-11-22T17:41:03.049Z
+date: 2020-01-01T20:21:00.000Z
 tags:
   - Swedish
 ---
