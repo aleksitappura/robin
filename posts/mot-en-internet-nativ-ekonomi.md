@@ -32,7 +32,7 @@ tags:
 
 **De mest värdefulla bolagen i världen skapas i brytningsskedet av teknologiplattformar.** Nya teknologiplattformar medför unika egenskaper som kan användas till att skapa nya sorters applikationer. Dagens internetjättar (GAFA) klarade sig exceptionellt bra genom det senaste brytningsskedet som smarttelefonen medförde, då bolagens primära affärsmodell (insamling av data för försäljning av reklam) inte ändrades från tidigare. Då en teknologiplattform orsakar en förändring i den primära affärsmodellen får nya agila aktörer chansen att bryta sig in på marknaden och rubba de ledande bolagens maktposition. Blockchainteknologi förändrar den primära affärsmodellen genom att göra data öppet och tillgängligt.
 
-![](/static/img/screenshot-2020-03-18-at-19.47.16.png "Informationsteknologins utveckling 1990–2020.")
+![](/static/img/screenshot-2020-04-21-at-22.32.33.png "Informationsteknologins utveckling 1990–2020.")
 
 **Blockchainteknologi utgör en ny teknologiplattform.** Blockchainteknologi möjliggör ett kollektivt upprätthållande av öppna databaser. Traditionellt har bolag ansvarat för databehandling och uppehåll av databaser. Överförandet av detta ansvar till globala online-gemenskap innebär att affärsverksamhet kan bedrivas i peer-to-peer-nätverk (“p2p-nätverk”) utan traditionella bolag. Affärsverksamhet som bedrivs i ett p2p-nätverk — genom blockchainprotokoll — erbjuder bättre tjänster än de som erbjuds idag av traditionella bolag. I jämförelse med våra nuvarande bolagsformer ligger blockchainprotokollens fördelar i deras öppenhet (öppen källkod), kostnadseffektivitet (global konkurrens) och distribution (Internet).
 
@@ -42,7 +42,7 @@ tags:
 
 **I egenskap av en global marknadsplats erbjuder blockchainprotokoll det mest kostnadseffektiva sättet att producera en tjänst.** Koncentrationen av det globala utbudet och efterfrågan för en specifik tjänst leder till de mest konkurrenskraftiga priserna. Den öppna och globala konkurrensen på Internet innebär att tjänsten ett blockchainprotokoll erbjuder kan lätt kopieras. Detta leder till att ett blockchainprotokoll inte kan ta betalt ett pris som överskrider den minsta möjliga vinstmarginalen för uppehållandet av tjänsten. Från en investerares perspektiv har detta ingen skillnad då blockchainprotokoll opererar på en globalt oöverträffad skala. För att bli ägare i ett blockchainprotokoll förutsätts enbart en Internetanslutning, vilket innebär att delägarskap i blockchainprotokoll inte begränsas av geografiska eller juridiska orsaker.
 
-![](/static/img/screenshot-2020-03-18-at-19.46.17.png "Blockchainprotokoll opererar på en oöverträffad skala jämfört med traditionella bolag.")
+![](/static/img/screenshot-2020-04-21-at-22.31.55.png "Blockchainprotokoll opererar på en oöverträffad skala jämfört med traditionella bolag.")
 
 **Blockchainprotokoll utmärks av starka nätverkseffekter.** Applikationerna som byggs på blockchainprotokoll hämtar tjänster från de mest kostnadseffektiva blockchainprotokollen. Detta leder till att det enbart existerar ett vinnande blockchainprotokoll för varje enskild tjänst. Det är finansiellt mer lukrativt att investera i blockchainprotokoll än enskilda applikationer byggda ovanpå dem, då det vinnande blockchainprotokollet (för en viss tjänst) används av ett flertal applikationer. Situationen kan likställas med att man på 90-talet skulle ha haft möjligheten att investera i de tidiga Internet-protokollen som t.ex. SMTP (e-post), HTTP (upphämtning av webbsidor) och TCP/IP (dataöverföring). Varje e-post, nedladdning av hemsida eller överförd bit av data skulle ha ökat värdet av dessa protokoll.
 
@@ -52,7 +52,7 @@ tags:
 
 **Tokens ger sina ägare ekonomiska och administrativa rättigheter.** Tokens kan programmeras att innehålla ekonomiska (rätt till vinstutdelning) och administrativa (rösträtt) rättigheter. I tokenägarnas intresse ligger att blockchainprotokollet utvecklas till en del av den globala Internet-infrastrukturen för applikationer. I likhet med aktier har även tokens skapats för att incentivera tokenägarna till att bidra till utvecklingen av blockchainprotokollets funktionalitet och affärsverksamhet.
 
-![](/static/img/screenshot-2020-03-18-at-19.45.45.png "Tokenägarnas roll kan jämföras med aktieägarnas roll.")
+![](/static/img/screenshot-2020-04-21-at-22.28.18.png "Tokenägarnas roll kan jämföras med aktieägarnas roll.")
 
 **Värdet av blockchainprotokollets token korrelerar med efterfrågan på tjänsten som blockchainprotokollet erbjuder.** Blockchainprotokollets målsättning är att producera en viss tjänst så kostnadseffektivt och säkert som möjligt. De blockchainprotokoll som lyckas nå den ledande positionen inom sin domän kommer att utgöra en del av Internets infrastruktur. Potentialen för värdeökning är enormt då blockchainprotokoll kan ligga som grund för all ekonomisk trafik på Internet i framtiden. Tokenägare belönas genom transaktionskostnaden (vinstmarginalen) som betalas för användandet av blockchainprotokollets tjänst.
 
@@ -66,13 +66,13 @@ tags:
 
 **Blockchainteknologi skapar ekonomiska incitament för en global online-gemenskap att upprätthålla öppna databaser (som förutsätts för erbjudandet av tjänster).** Informationen som hänför sig till en viss tjänst kan sparas i öppna, globalt ägda och upprätthållna databaser. Ett blockchainprotokoll består av en databas samt den affärslogik som utgör dess tjänst. Inom de flesta branscher idag ansvarar många bolag för att upprätthålla egna privata databaser. Ett blockchainprotokoll ersätter de privata databaserna inom en bransch med en öppen och global databas.
 
-![](/static/img/screenshot-2020-03-18-at-19.43.48.png "Blockchainprotokoll erbjuder öppna tjänster för applikationsutvecklare.")
+![](/static/img/screenshot-2020-04-21-at-22.26.56.png "Blockchainprotokoll erbjuder öppna tjänster för applikationsutvecklare.")
 
 #### Applikationer byggs på tjänster som erbjuds av blockchainprotokoll
 
 **Blockchainprotokoll erbjuder öppna tjänster som är neutrala verktyg för applikationsutvecklare.** Applikationsutvecklare kan använda blockchainprotokoll som byggstenar i sina applikationer, utan att behöva ta risken av att tillträde till tjänsten skulle stängas (sk. plattformrisk). Det finns flera exempel på situationer där plattformrisken har realiserats: Facebook/Zynga, Google/Yelp samt Twitter/externa applikationsutvecklare. Öppna tjänster främjar innovation i samhället, vilket syns i den ökade efterfrågan på tjänster erbjudna av blockchainprotokoll. En applikation kan utnyttja tjänster av ett eller flera blockchainprotokoll och eftersom tjänsterna är öppna kan olika blockchainprotokoll kombineras lätt och effektivt. Öppenheten av blockchainprotokoll leder till att ägarna och utvecklarna är ekonomiskt incentiverade att få alla applikationsutvecklare att använda sig av blockchainprotokollets tjänst. Jämför detta med nuläget där samarbete mellan plattformen och applikationer över tiden förändras från samarbete till konkurrens.
 
-![](/static/img/screenshot-2020-03-18-at-19.45.14.png "Blockchainprotokoll avlägsnar plattformrisken från applikationsutvecklare.")
+![](/static/img/screenshot-2020-04-21-at-22.59.59.png "Blockchainprotokoll avlägsnar plattformrisken från applikationsutvecklare.")
 
 **Blockchainprotokoll skapar ekonomiska incitament till utvecklingen av öppen källkod.** Blockchainprotokoll programmeras att innefatta ekonomiska incitament till utveckling av öppen källkod. En enskild utvecklare av ett blockchainprotokoll kan gynnas ekonomiskt genom att köpa blockchainprotokollets tokens och samtidigt bidra till att utveckla blockchainprotokollets tjänst. En ökad efterfrågan på blockchainprotokollets tjänst leder till värdeökning av dess tokens.
 
@@ -82,7 +82,7 @@ tags:
 
 **Affärslogiken för ett visst blockchainprotokoll är inprogrammerad i dess öppna källkod.** Källkoden i blockchainprotokoll brukar innehålla öppna parametrar som med jämna mellanrum justeras av tokenägarna genom röstning. Vem som helst kan använda ett blockchainprotokoll genom att betala en transaktionskostnad. Tokenägarnas uppgift är att upprätthålla tjänstens funktionalitet (genom att rösta om parametrarna ovan) och pålitlighet (genom att ställa sina tokens som säkerhet).
 
-![](/static/img/screenshot-2020-03-18-at-19.48.29.png "Exempel på olika blockchainprotokoll och tjänster som de erbjuder.")
+![](/static/img/screenshot-2020-04-21-at-22.32.55.png "Exempel på olika blockchainprotokoll och tjänster som de erbjuder.")
 
 ### BLOCKCHAINTEKNOLOGINS UTVECKLING
 
