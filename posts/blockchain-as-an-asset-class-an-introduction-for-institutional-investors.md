@@ -25,7 +25,7 @@ US-based Fidelity Investments is one of the leading institutional investors in t
 Examples of other well-known technology and traditional financial services firms that have made significant investments into the blockchain space:
 
 * Venture capital firm Andreessen Horowitz (a16z). In the summer of 2018, Andreessen Horowitz launched their dedicated blockchain investment fund, a16z crypto (AUM $300 million).
-* Venture capital firm Sequioa Capital (Sequioa). In 2018, former Sequioa partner Matt Huang and Coinbase co-founder Fred Ehrsam founded the blockchain investment firm Paradigm (AUM $400 million). In addition to Sequioa, the fund’s investors include Yale University endowment, whose CIO David Swensen is known for pioneering an investment strategy that emphasises alternative investments.
+* Venture capital firm Sequoia Capital (Sequoia). In 2018, former Sequoia partner Matt Huang and Coinbase co-founder Fred Ehrsam founded the blockchain investment firm Paradigm (AUM $400 million). In addition to Sequoia, the fund’s investors include Yale University endowment, whose CIO David Swensen is known for pioneering an investment strategy that emphasises alternative investments.
 * Chicago Mercantile Exchange (CME). CME added bitcoin futures to their service offering in December 2017. The company introduced bitcoin options for trading in January 2020.
 * The parent company of New York Stock Exchange, Intercontinental Exchange (ICE). In 2019, ICE launched the token trading and custody platform Bakkt.
 
