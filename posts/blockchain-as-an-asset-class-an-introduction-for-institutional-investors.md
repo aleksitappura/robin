@@ -55,7 +55,7 @@ Examples of other well-known technology and traditional financial services firms
 
   The daily development activity is concentrated to online forums such as Twitter, Discord, Medium, and Github. The transaction activity of Internet-native companies can be monitored in [real time](https://etherscan.io/txsPending) since they are based on open source and open data. In addition to transaction activity, investors need to be able to analyse the operations of their investment targets by following the development work of the core teams and the investment target’s popularity among third-party developers. Finding the relevant information and parties requires active participation in these online communities.
 
-  ![](/static/img/screenshot-2020-04-22-at-16.54.44.png "Examples of different Internet-native companies or token projects.")
+  ![](/static/img/screen-shot-2020-04-22-at-17.22.18.png "Examples of different Internet-native companies or token projects.")
 
   A professional and blockchain-focused investment team is best suited to source the most promising investment targets.
 
