@@ -1,5 +1,5 @@
 ---
-title: "Introducing Token Terminal: Financial Metrics for Blockchain Protocols"
+title: "Introducing Token Terminal: financial metrics for blockchain protocols"
 date: 2020-01-02T09:45:00.000Z
 tags:
   - English
