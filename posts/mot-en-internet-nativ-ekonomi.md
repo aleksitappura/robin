@@ -80,7 +80,7 @@ tags:
 
 **Affärslogiken för ett visst blockchainprotokoll är inprogrammerad i dess öppna källkod.** Källkoden i blockchainprotokoll brukar innehålla öppna parametrar som med jämna mellanrum justeras av tokenägarna genom röstning. Vem som helst kan använda ett blockchainprotokoll genom att betala en transaktionskostnad. Tokenägarnas uppgift är att upprätthålla tjänstens funktionalitet (genom att rösta om parametrarna ovan) och pålitlighet (genom att ställa sina tokens som säkerhet).
 
-![](/static/img/screenshot-2020-04-21-at-22.32.55.png "Exempel på olika blockchainprotokoll och tjänster som de erbjuder.")
+![](/static/img/screenshot-2020-04-22-at-16.43.43.png "Exempel på olika blockchainprotokoll och tjänster som de erbjuder.")
 
 ### BLOCKCHAINTEKNOLOGINS UTVECKLING
 
