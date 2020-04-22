@@ -1,5 +1,5 @@
 ---
-title: " Blockchainteknologi som tillgångsklass - en introduktion för
+title: " Blockchainteknologi som tillgångsklass — en introduktion för
   institutionella investerare"
 date: 2020-01-01T20:20:00.000Z
 tags:
