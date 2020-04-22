@@ -1,22 +1,20 @@
 ---
-title: " Blockchain as an Asset Class - An Introduction for Institutional Investors"
+title: " Blockchain as an asset class - an introduction for institutional investors"
 date: 2020-01-01T19:20:48.392Z
 tags:
   - English
 ---
-*Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/lohkoketjuteknologia-omaisuusluokkana-johdanto-institutionaalisille-sijoittajille/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/)**.*
-
-### Executive Summary
+### Executive summary
 
 This article is aimed at institutional and other professional investors who are considering making an allocation to blockchain. It examines the best practices for token investing that have been adopted by institutional investors globally. In this article, blockchain investments refer to investments in tokens. The article excludes traditional equity investments made into startups that make use of blockchain technology.
 
-*For more on blockchain technology and its development see: [Towards an Internet-Native Economy](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/).*
+*For more on blockchain technology and its development see: Towards an Internet-Native Economy.*
 
 ![](/static/img/screenshot-2020-04-22-at-11.24.04.png "An investor interested in the attractive risk-return profile of the new asset class needs to consider the additional technical and operational requirements that pertain to token investing.")
 
 The first part of the article highlights recent developments in the market infrastructure for token trading and custody. As a result, more institutional investors have been able to invest in tokens. The second part outlines the technical and operational requirements of token investing. The third part walks through the alternatives available to institutional investors interested in investing in tokens.
 
-### The Development of Blockchain Technology
+### The development of blockchain technology
 
 #### The number of regulated and professional market participants is on the rise
 
@@ -41,7 +39,7 @@ Examples of other well-known technology and traditional financial services firms
 
   To date, the majority of institutional investment activity in blockchain has been concentrated to the US. The European Investment Fund announced at the end of 2019 its intent to allocate [400 million euros to blockchain technology investments](https://ec.europa.eu/digital-single-market/en/news/eu-artificial-intelligence-and-blockchain-investment-fund-invest-100-million-euros-startups) in 2020. The mandate was given to ensure that Europe is not being left behind US and Asia in the development of leading edge technologies.
 
-  ### Challenges Relating to the New Asset Class
+  ### Challenges relating to the new asset class
 
   #### Token ownership is a prerequisite for capturing the potential value of blockchain technology
 
@@ -61,7 +59,7 @@ Examples of other well-known technology and traditional financial services firms
 
   A professional and blockchain-focused investment team is best suited to source the most promising investment targets.
 
-  ### Token Investing in Practice
+  ### Token investing in practice
 
   #### The early stage of the token market favours a long-term approach combined with an active investment strategy
 
@@ -78,5 +76,3 @@ Examples of other well-known technology and traditional financial services firms
   The nascency of the token asset class, the regulatory questions surrounding it, and its rapid development pace, all support a long-term and active investment strategy. Blockchain technology is in many ways more akin to the Internet — a technology that had an impact on several different industries — than a single [vertical](https://pitchbook.com/blog/what-are-industry-verticals), which is why a successful investment operation often requires a dedicated team.
 
   For the reasons mentioned above, the most common form of investment in the blockchain space has skewed towards dedicated token venture capital funds. Fund managers that operate token-focused funds tend to be younger and less experienced than their traditional counterparts.
-
-  ###### This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. You should consult your own advisers as to those matters. References to any securities or digital assets are for illustrative purposes only, and do not constitute an investment recommendation or offer to provide investment advisory services.
