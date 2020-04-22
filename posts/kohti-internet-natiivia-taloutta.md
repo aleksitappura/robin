@@ -1,6 +1,6 @@
 ---
 title: Kohti Internet-natiivia taloutta
-date: 2019-11-22T17:25:55.588Z
+date: 2020-01-01T20:29:00.000Z
 tags:
   - Finnish
 ---
