@@ -4,8 +4,6 @@ date: 2019-11-22T17:25:55.588Z
 tags:
   - Finnish
 ---
-*Lue artikkeli **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/)** tai **[englanniksi](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/)**.*
-
 ***INFORMAATIOTEKNOLOGIAN KEHITYS***
 
 * *​Uusi infrastruktuuri mahdollistaa uudenlaiset palvelut*
@@ -30,7 +28,7 @@ tags:
 
 **Maailman arvokkaimmat yritykset syntyvät teknologia-alustojen murrosvaiheessa.** Murrosvaiheessa uusille toimijoille avautuu mahdollisuus rakentaa uuden teknologia-alustan uusia toiminnallisuuksia hyödyntäviä palveluita. Internetin nykyiset suuryritykset (GAFA) selvisivät poikkeuksellisesti yhden murrosvaiheen yli, koska liiketoimintamalli (datan kerääminen ja mainostilan myyminen) Internet ja älypuhelin ajanjaksoina pysyi samana. Uuden teknologia-alustan muuttaessa liiketoimintamalleja, uusilla yrityksillä on mahdollisuus syrjäyttää vallassa olevat yritykset. Lohkoketjuteknologia muuttaa nykyisiä liiketoimintamalleja tekemällä datasta avointa.
 
-**Teknologia-alustat ovat informaatioteknologian infrastruktuuria.**Uudelle teknologia-alustalle on ominaista, että se tuo mukanaan uusia toiminnallisuuksia ja jakelukanavia. PC:n laskentateho mahdollisti tekstinkäsittelyyn ja taulukkolaskentaan erikoistuneiden sovellusten laaja-alaisen levityksen; Internet maailmanlaajuisena verkostona yhdisti PC:t yhteen jaettuun kommunikaatioverkostoon; älypuhelin teki tietokoneista kannettavia ja sisällytti niihin uusina ominaisuuksina sekä GPS-paikannuksen että kameran. Uuden teknologia-alustan ensimmäiset vuodet ovat usein otollisia hetkiä uudenlaisten yritysten rakentamiseen ja rahoittamiseen.
+**Teknologia-alustat ovat informaatioteknologian infrastruktuuria.** Uudelle teknologia-alustalle on ominaista, että se tuo mukanaan uusia toiminnallisuuksia ja jakelukanavia. PC:n laskentateho mahdollisti tekstinkäsittelyyn ja taulukkolaskentaan erikoistuneiden sovellusten laaja-alaisen levityksen; Internet maailmanlaajuisena verkostona yhdisti PC:t yhteen jaettuun kommunikaatioverkostoon; älypuhelin teki tietokoneista kannettavia ja sisällytti niihin uusina ominaisuuksina sekä GPS-paikannuksen että kameran. Uuden teknologia-alustan ensimmäiset vuodet ovat usein otollisia hetkiä uudenlaisten yritysten rakentamiseen ja rahoittamiseen.
 
 ![](/static/img/screenshot-2020-04-21-at-22.32.06.png "Informaatioteknologian kehitys 1990–2020.")
 
