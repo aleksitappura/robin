@@ -32,7 +32,7 @@ tags:
 
 **Computing platforms are the infrastructure of information technology.** A new computing platform introduces new features and opens up new distribution channels. The computing power of PCs enabled the creation of tools such as the spreadsheet and the word processor; the Internet as a global information network connected the PCs into one shared communication network; and the smartphone made PCs mobile and added new features such as location-based services and the camera.
 
-![](/static/img/screenshot-2020-03-18-at-19.00.20.png "The development of information technology 1990–2020.")
+![](/static/img/screenshot-2020-04-21-at-22.32.18.png "The development of information technology 1990–2020.")
 
 **Blockchain technology is a new computing platform.** Blockchains enable a global community to create and maintain open and shared databases. Companies have traditionally been tasked with processing and storing data, and maintaining databases. Transferring this responsibility to a global community means that companies can now be operated in a peer-to-peer network, without the involvement of a traditional company. Companies that are operated by a peer-to-peer network offer better services than their incumbent competitors. The services provided by blockchain protocols are superior due to their openness (open source), cost-efficiency (global competition), and distribution (the Internet).
 
@@ -42,7 +42,7 @@ tags:
 
 **A blockchain protocol as a global marketplace is the most cost-efficient way to provide a specific service.** Concentrating the supply and demand of a specific service into a single place leads to most competitive prices. Due to the open and global nature of the Internet, competition among blockchain protocols means that the winning protocol is only able to extract the bare minimum fee required to keep the network secure. However, from an investor’s point of view, this is not an issue since blockchain protocols operate at unprecedented scale. Creating a payment network owned and used by 7+ billion people has not been possible before.
 
-![](/static/img/screenshot-2020-03-18-at-19.03.14.png "Blockchain protocols operate at unprecedented scale compared to traditional companies.")
+![](/static/img/screenshot-2020-04-21-at-22.31.15.png "Blockchain protocols operate at unprecedented scale compared to traditional companies.")
 
 **Blockchain protocols have powerful network effects.** End user applications purchase a specific service from the blockchain protocol that provides it for the most cost-efficient price. This means that in the end, there will only be one winning blockchain protocol for a specific use case. Investing directly into blockchain protocols is financially a better alternative than investing into the end user applications built on top of them. This is because the blockchain protocol that wins its vertical is bound to aggregate traffic from all of the end user applications built on top of it. This is comparable to if one could have invested in the SMTP (email), HTTPS (web request encryption), and TCP/IP (packets) protocols in the 90s. Each incremental email, web request, and information transfer would have made these protocols more valuable.
 
@@ -52,7 +52,7 @@ tags:
 
 **A token gives its owner both economic and governance rights.** Tokens can be programmed to possess both economic (profit participation) and governance (voting) rights. It is in the interests of the tokenholders to grow the blockchain protocol into becoming a global and cost-efficient infrastructure component, on top of which anyone can build their own end user application. Similar to traditional shares in a company, tokens are created to encourage their owners to participate and contribute to the development of a blockchain protocol.
 
-![](/static/img/screenshot-2020-03-18-at-19.05.38.png "A tokenholder’s role is similar to a shareholder’s.")
+![](/static/img/screenshot-2020-04-21-at-22.28.27.png "A tokenholder’s role is similar to a shareholder’s.")
 
 **The more there is demand for a blockchain protocol’s service, the more valuable its tokens are.** The goal of blockchain protocols is to provide a specific service as reliably and cost-efficiently as possible. The blockchain protocols that emerge as winners of their respective verticals become part of the core infrastructure of the Internet. The potential for value appreciation is significant because winning blockchain protocols should eventually mediate all value transfer on the Internet. Tokenholders are compensated by the value accrual of their tokens, which appreciate in value the more (non-extractive) fees are paid by those using the blockchain protocol’s service.
 
@@ -66,13 +66,13 @@ tags:
 
 **Blockchain technology provides economic incentives for global communities to maintain open databases (the maintenance of a database is a prerequisite for being able to provide a service).** The data concerning different services can now be stored in open databases that are collectively owned and maintained by worldwide communities. A blockchain protocol is made up of the protocol (business logic) that pertains to the service it provides, and the database that stores the data generated as a result of applications using it. Today, many industries have their databases siloed between thousands of different companies. A blockchain protocol can replace these proprietary databases with one universal and open database.
 
-![](/static/img/screenshot-2020-03-18-at-19.05.56.png "Blockchain protocols offer open services for application developers.")
+![](/static/img/screenshot-2020-04-21-at-22.27.17.png "Blockchain protocols offer open services for application developers.")
 
 #### Applications are built on top of blockchain protocols
 
 **The open services of blockchain protocols serve as neutral tools for application developers.** Application developers can use the open services of blockchain protocols as tools when building their own end user applications, without the fear of a third-party company closing their access to the service (platform risk). There are many examples of platform risk occurring in tech: Facebook/Zynga, Google/Yelp, Twitter/third-party developers. Open services promote innovation in society: the current popularity of blockchain protocols’ services among application developers serves as a proxy for the general demand that exists for open services. A single application may use the services provided by one or many blockchain protocols. As the services are open, they can easily be integrated with one another. Since the services are open, it is also in the interest of the developers of a blockchain protocol to have the protocol’s service being used by as many end user applications as possible. Compare this with the status quo, where cooperation between a platform and applications built on top of it eventually turns into competition.
 
-![](/static/img/screenshot-2020-03-18-at-19.06.10.png "Blockchain protocols eliminate platform risk from application developers.")
+![](/static/img/screenshot-2020-04-21-at-22.26.20.png "Blockchain protocols eliminate platform risk from application developers.")
 
 **Blockchain protocols introduce economic incentives to open source software development.** A blockchain protocol contains programmed economic incentives for developers to develop the protocol. A developer of a blockchain protocol may be financially rewarded for open source development through tokens — developing the protocol to increase the demand for its service makes the tokens more valuable.
 
@@ -82,7 +82,7 @@ tags:
 
 **The business logic of a service is programmed into the open source code of a blockchain protocol.** Some important parameters for the service are often left open for the tokenholders to vote on during set intervals. Anyone can use the services provided by blockchain protocols by paying a fee and/or by depositing collateral. It is the responsibility of the tokenholders to maintain the usefulness (by voting on the parameters mentioned above) and reliability (by posting their tokens as collateral) of the blockchain protocol’s service.
 
-![](/static/img/screenshot-2020-03-18-at-19.06.37.png "Examples of services provided by blockchain protocols.")
+![](/static/img/screenshot-2020-04-21-at-22.33.16.png "Examples of services provided by blockchain protocols.")
 
 ### THE DEVELOPMENT OF BLOCKCHAIN TECHNOLOGY
 
