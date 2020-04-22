@@ -13,7 +13,7 @@ Denna artikel riktar sig till institutionella samt andra professionella invester
 
 *Läs mer om blockchainteknologi och dess utveckling: [Mot en Internet-nativ ekonomi](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/).*
 
-![](/static/img/screenshot-2020-03-18-at-21.01.50.png "En investerare som är intresserad av den attraktiva risk-avkastningsprofilen för den nya tillgångsklassen bör ta i beaktande de tekniska och operativa utmaningarna som hänför sig till tokeninvesteringar.")
+![](/static/img/screenshot-2020-04-22-at-11.25.06.png "En investerare som är intresserad av den attraktiva risk-avkastningsprofilen för den nya tillgångsklassen bör ta i beaktande de tekniska och operativa utmaningarna som hänför sig till tokeninvesteringar.")
 
 Den första delen av artikeln behandlar den senaste utvecklingen i marknadsinfrastrukturen för handel och förvar av tokens. En mer utvecklad infrastruktur har lett till att allt fler institutionella investerare kunnat investera i tokens. Den andra delen behandlar de tekniska och operativa utmaningarna som hänför sig till tokeninvesteringar. Den tredje delen beskriver de alternativ som investerarna har för att genomföra tokeninvesteringar i praktiken.
 
@@ -32,13 +32,13 @@ Exempel på andra välkända tech-investerare och traditionella finansiella a
 * Chicago Mercantile Exchange (CME). CME lade till Bitcoin-terminer till sin produktportfölj i december 2017. Bolaget började erbjuda handel av Bitcoin-optioner i januari 2020.
 * Moderbolaget för New York Stock Exchange, Intercontinental Exchange (ICE). År 2019 lanserade ICE Bakkt, ett bolag som erbjuder förvar och handel av tokens för institutionella investerare.
 
-  ![](/static/img/screenshot-2020-03-18-at-21.02.10.png "Intercontinental Exchange opererar tokenbörsen Bakkt som erbjuder bl.a. Bitcoin-terminer.")
+  ![](/static/img/screenshot-2020-04-22-at-11.26.00.png "Intercontinental Exchange opererar tokenbörsen Bakkt som erbjuder bl.a. Bitcoin-terminer.")
 
   Idag har över 20 aktörer på blockchainmarknaden beviljats tillstånd av New Yorks delstat att agera som reglerade (New York Banking Law § 100) förvaringsinstitut för tokens.
 
   Exempel på reglerade aktörer som erbjuder handel och förvar av tokens:
 
-  ![](/static/img/screenshot-2020-03-18-at-21.02.20.png "Exempel på reglerade aktörer som erbjuder handel och förvar av tokens.")
+  ![](/static/img/screenshot-2020-04-22-at-11.25.16.png "Exempel på reglerade aktörer som erbjuder handel och förvar av tokens.")
 
   Hittills har den institutionella investeringsverksamheten för blockchainteknologi koncentrerats främst till USA. I slutet av 2019 meddeladeEuropeiska investeringsfonden sin avsikt att investera 400 miljoner euro i blockchainteknologiår 2020. Projektets syfte är att försäkra att Europa inte förblir efter USA och Asien i utvecklingen av nya banbrytande teknologier.
 
@@ -52,7 +52,7 @@ Exempel på andra välkända tech-investerare och traditionella finansiella a
 
   Traditionella bolag är beroende av blockchainteknologins funktionalitet och framgång samtidigt som deras förmåga att betjäna en global användarkrets är begränsat jämfört Internet-nativa bolag. Tokens i Internet-nativa bolag liknar aktier och ger innehavaren både ekonomiska och administrativa rättigheter.
 
-  ![](/static/img/screenshot-2020-03-18-at-21.02.40.png "I likhet med traditionella bolag kan Internet-nativa bolag mätas med ekonomiska nyckeltal. Källa: Token Terminal.")
+  ![](/static/img/screenshot-2020-04-22-at-10.56.34.png "I likhet med traditionella bolag kan Internet-nativa bolag mätas med ekonomiska nyckeltal. Källa: Token Terminal.")
 
   #### Tokeninvesteringar genomförs i en Internet-nativ miljö
 
@@ -60,7 +60,7 @@ Exempel på andra välkända tech-investerare och traditionella finansiella a
 
   Det dagliga utvecklingsarbetet för Internet-nativa bolag bedrivs ofta på olika online-forum som t.ex. Twitter, Discord, Medium och Github. Eftersom Internet-nativa bolag bygger på öppen data och källkod kan deras verksamhet och transaktioner granskas i realtid. Förutom transaktionsaktivitet bör investeraren kunna analysera projektets utveckling och popularitet bland externa applikationsutvecklare. För att hitta relevant information och parter krävs aktivt deltagande i dessa online-gemenskap. 
 
-  ![](/static/img/screenshot-2020-03-18-at-21.02.58.png "Exempel på olika Internet-nativa bolag dvs. tokenprojekt.")
+  ![](/static/img/screenshot-2020-04-22-at-11.25.25.png "Exempel på olika Internet-nativa bolag dvs. tokenprojekt.")
 
   Ett professionellt investeringsteam som specialiserat sig på blockchainteknologi har de bästa förutsättningarna att hitta de mest lovande projekten.
 
@@ -76,7 +76,7 @@ Exempel på andra välkända tech-investerare och traditionella finansiella a
 
   På grund av investeringarnas och investeringsprocessens ovanliga karaktär har många traditionella riskkapitalfonder undantagsvis valt att investera i utomstående riskkapitalfonder som har investeringsfokus enbart i tokens.
 
-  ![](/static/img/screenshot-2020-03-18-at-21.03.23.png "På den globala marknaden existerar redan ett flertal riskkapitalfonder vars investeringsfokus ligger enbart i tokens.")
+  ![](/static/img/screenshot-2020-04-22-at-11.24.52.png "På den globala marknaden existerar redan ett flertal riskkapitalfonder vars investeringsfokus ligger enbart i tokens.")
 
   Det tidiga utvecklingsstadiet av den nya tillgångsklassen, de juridiska spörsmålen samt den snabba utvecklingstakten förespråkar en långsiktig och aktiv investeringsstrategi. Blockchainteknologi är till sin natur mer likt Internet - en teknologi som påverkat ett flertal branscher - än någon enskild vertikal, vilket innebär att tokeninvesteringar ofta förutsätter ett specialiserat team.
 
