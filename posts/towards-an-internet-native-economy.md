@@ -1,28 +1,26 @@
 ---
-title: Towards an Internet-Native Economy
+title: Towards an Internet-native economy
 date: 2019-11-22T16:56:42.038Z
 tags:
   - English
 ---
-*Read the article in **[Finnish](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)** or **[Swedish](https://suspicious-kepler-340c57.netlify.com/posts/mot-en-internet-nativ-ekonomi/)**.*
+***CYCLES OF INNOVATION IN INFORMATION TECHNOLOGY***
 
-**CYCLES OF INNOVATION IN INFORMATION TECHNOLOGY**
+* ***​**New infrastructure enables new kinds of services*
+* *​Blockchain protocols produce open, global and cost-efficient services*
+* *Blockchain protocols are owned and operated by global communities*
 
-* **​**New infrastructure enables new kinds of services
-* ​Blockchain protocols produce open, global and cost-efficient services
-* Blockchain protocols are owned and operated by global communities
+***​BLOCKCHAIN TECHNOLOGY***
 
-**​BLOCKCHAIN TECHNOLOGY**
+* ***​**Blockchain technology enables global services*
+* *​Applications are built on top of blockchain protocols*
+* *​Examples of services provided by blockchain protocols*
 
-* **​**Blockchain technology enables global services
-* ​Applications are built on top of blockchain protocols
-* ​Examples of services provided by blockchain protocols
+***​THE DEVELOPMENT OF BLOCKCHAIN TECHNOLOGY***
 
-**​THE DEVELOPMENT OF BLOCKCHAIN TECHNOLOGY**
-
-* ​Internet-native money (2008–2013)
-* ​Internet-native applications (2014–2019)
-* ​Internet-native economy (2020-)
+* *​Internet-native money (2008–2013)*
+* *​Internet-native applications (2014–2019)*
+* *​Internet-native economy (2020-)*
 
 ### CYCLES OF INNOVATION IN INFORMATION TECHNOLOGY
 
