@@ -80,7 +80,7 @@ tags:
 
 **Lohkoketjuprotokollan tuottaman palvelun liiketoimintalogiikka on ohjelmoitu sen avoimeen lähdekoodiin.** Usein lähdekoodiin on jätetty auki tietyt palvelun toimivuuden kannalta olennaiset muuttujat, joista tokenomistajat äänestävät tasaisin väliajoin. Kuka tahansa voi hyödyntää lohkoketjuprotokollien tuottamia palveluita maksua ja/tai vakuuden asettamista vastaan. Lohkoketjuprotokollan tokenomistajien tehtävänä on ylläpitää palvelun toimivuutta (äänestämällä yllä mainituista muuttujista) ja luotettavuutta (asettamalla tokenomistuksensa palvelun vakuudeksi).
 
-![](/static/img/screenshot-2020-04-21-at-22.33.07.png "Esimerkkejä eri lohkoketjuprotokollista ja niiden tuottamista palveluista.")
+![](/static/img/screenshot-2020-04-22-at-16.43.55.png "Esimerkkejä eri lohkoketjuprotokollista ja niiden tuottamista palveluista.")
 
 ### LOHKOKETJUTEKNOLOGIAN KEHITYS
 
