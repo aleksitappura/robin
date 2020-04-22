@@ -5,7 +5,7 @@ date: 2020-01-01T20:30:00.000Z
 tags:
   - Finnish
 ---
-\*Lue raportti **[englanniks](https://suspicious-kepler-340c57.netlify.com/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)i** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).***
+Lue raportti **[englanniksi](https://suspicious-kepler-340c57.netlify.app/posts/blockchain-as-an-asset-class-an-introduction-for-institutional-investors/)** tai **[ruotsiksi](https://suspicious-kepler-340c57.netlify.com/posts/blockchainteknologi-som-tillgangsklass-en-introduktion-for-institutionella-investerare/).**
 
 ### Yhteenveto
 
