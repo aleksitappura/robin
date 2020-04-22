@@ -13,7 +13,7 @@ Tämä artikkeli on suunnattu institutionaalisille- ja muille ammattimaisille si
 
 *Ks. lisää lohkoketjuteknologiasta ja sen kehityksestä: **[Kohti Internet-Natiivia Taloutta](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)**.*
 
-![](/static/img/screenshot-2020-03-18-at-20.08.06.png "Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.")
+![](/static/img/screenshot-2020-04-22-at-11.25.38.png "Uuden omaisuusluokan houkuttelevasta riski-tuottoprofiilista kiinnostuneen sijoittajan tulee ottaa huomioon tokensijoittamiseen liittyvät tekniset ja operatiiviset lisähaasteet.")
 
 Artikkelin ensimmäinen osa käsittelee lohkoketjualan markkinainfrastruktuurin viimeaikaista kehitystä, joka on mahdollistanut yhä useammalle institutionaaliselle sijoittajalle tokensijoittamisen. Toinen osa käsittelee tokensijoittamiseen liittyviä teknisiä ja operatiivisia lisähaasteita. Kolmannessa osassa kuvataan sijoittajille tarjolla olevia vaihtoehtoja tokensijoitustoiminnan järjestämiseksi.
 
@@ -32,13 +32,13 @@ Esimerkkejä muista lohkoketjuteknologiaan sijoittaneista tunnetuista teknologia
 * **Chicago Mercantile Exchange (CME).** CME lisäsi bitcoin-futuurit tuotevalikoimaansa joulukuussa 2017. Yhtiö otti bitcoin-optiot kaupankäynnin kohteeksi tammikuussa 2020.
 * **New York Stock Exchangen emoyhtiö Intercontinental Exchange (ICE).** ICE lanseerasi vuonna 2019 tokenien kaupankäyntiin ja säilytykseen keskittyvän Bakkt-nimisen palvelun.
 
-![](/static/img/screenshot-2020-03-18-at-20.08.29.png "Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.")
+![](/static/img/screenshot-2020-04-22-at-11.26.09.png "Intercontinental Exchange ylläpitää omaa tokenien kaupankäyntialustaansa nimeltä Bakkt.")
 
 Nykyisellään jo yli 20 tokenien säilytystä tarjoavalla toimijalla on New Yorkin pankkilakien (New York Banking Law § 100) mukainen toimiluvallisen säilytysyhteisön asema.
 
 Esimerkkejä toimiluvallisista palveluntarjoajista:
 
-![](/static/img/screenshot-2020-03-18-at-20.08.41.png "Esimerkkejä säännellyistä tokenien kaupankäynti- ja säilytyspalveluntarjoajista.")
+![](/static/img/screenshot-2020-04-22-at-11.26.29.png "Esimerkkejä säännellyistä tokenien kaupankäynti- ja säilytyspalveluntarjoajista.")
 
 Tähän mennessä suurin osa lohkoketjualan institutionaalisesta sijoitusaktiviteetista on keskittynyt Yhdysvaltoihin. Euroopan investointirahasto ilmoitti vuoden 2019 lopulla [aikeestaan allokoida 400 miljoonaa euroa lohkoketjuteknologiasijoituksiin](https://ec.europa.eu/digital-single-market/en/news/eu-artificial-intelligence-and-blockchain-investment-fund-invest-100-million-euros-startups) vuonna 2020. Hankkeen taustalla on pyrkimys varmistaa, ettei Eurooppa jää uusien teknologioiden kehityksessä jälkeen Yhdysvalloista ja Aasian maista.
 
@@ -50,7 +50,7 @@ Lohkoketjuteknologia mahdollistaa Internet-pohjaisten (lohkoketjuun rekisteröit
 
 Perinteiset yritykset ovat riippuvaisia lohkoketjuteknologian toimivuudesta, mutta niiden mahdollisuudet palvella kaikkia maailman käyttäjiä ovat pienemmät kuin Internet-pohjaisten yritysten. Internet-pohjaisen yrityksen tokenit muistuttavat osakkeita ja antavat haltijalleen sekä taloudellisia että hallinnollisia oikeuksia.
 
-![](/static/img/screenshot-2020-03-18-at-20.09.00.png "Internet-pohjaisille yrityksille voidaan määrittää taloudelliset tunnusluvut samalla tavalla kuin perinteisille yrityksille. Lähde: Token Terminal.")
+![](/static/img/screenshot-2020-04-22-at-10.56.34.png "Internet-pohjaisille yrityksille voidaan määrittää taloudelliset tunnusluvut samalla tavalla kuin perinteisille yrityksille. Lähde: Token Terminal.")
 
 #### Tokensijoittaminen tapahtuu Internet-natiivissa toimintaympäristössä
 
@@ -58,7 +58,7 @@ Internet-pohjaisiin yrityksiin sijoittaminen (tokensijoittaminen) eroaa monelta 
 
 Internet-pohjaisten yritysten päivittäinen kehitystoiminta keskittyy usein eri online-foorumeille, kuten Twitteriin, Discordiin, Mediumiin ja Githubiin. Koska Internet-pohjaiset yritykset rakentuvat avoimen datan ja lähdekoodin varaan, niiden toimintaa ja transaktioita on mahdollista seurata [reaaliajassa](https://etherscan.io/txsPending). Transaktioaktiviteetin lisäksi sijoittajan tulee pystyä analysoimaan sijoituskohteen toimintaa seuraamalla sen ydintiimin kehitystyötä ja sijoituskohteen suosiota ulkopuolisten sovelluskehittäjien keskuudessa. Relevantin tiedon ja tahojen löytäminen edellyttää aktiivista osallistumista näihin online-yhteisöihin.
 
-![](/static/img/screenshot-2020-03-18-at-20.09.35.png "Esimerkkejä eri Internet-pohjaisista yrityksistä eli tokenprojekteista.")
+![](/static/img/screenshot-2020-04-22-at-11.26.39.png "Esimerkkejä eri Internet-pohjaisista yrityksistä eli tokenprojekteista.")
 
 Ammattitaitoisella ja lohkoketjuteknologiaan erikoistuneella sijoitustiimillä on parhaimmat edellytykset löytää lupaavimmat sijoituskohteet.
 
@@ -74,7 +74,7 @@ Suurin osa rahastohoitajista on päätynyt suosimaan suljettua rahastorakennetta
 
 Epätavanomaisten sijoituskohteiden ja sijoitusprosessin vuoksi moni perinteinen venture capital-rahasto on poikkeuksellisesti päätynyt tekemään rahastojen rahasto-sijoituksia yksinomaan tokensijoituksiin erikoistuneisiin venture capital-rahastoihin.
 
-![](/static/img/screenshot-2020-03-18-at-20.09.51.png "Maailmalla toimii jo useita tokensijoituksiin erikoistuneita venture capital-rahastoja.")
+![](/static/img/screenshot-2020-04-22-at-11.24.52.png "Maailmalla toimii jo useita tokensijoituksiin erikoistuneita venture capital-rahastoja.")
 
 Uuden tokenomaisuusluokan varhainen kehitysaste, siihen liittyvät lainsäädännölliset kysymysmerkit ja nopea kehitystahti puoltavat pitkäjänteistä ja aktiivista sijoittamista. Lohkoketjuteknologia on luonteeltaan lähempänä Internetiä — teknologia, jolla oli vaikutus useaan eri toimialaan — kuin yksittäistä [vertikaalia](https://pitchbook.com/blog/what-are-industry-verticals), minkä takia sen perusteellinen ymmärtäminen edellyttää usein erikoistunutta tiimiä.
 
