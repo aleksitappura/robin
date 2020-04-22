@@ -32,7 +32,7 @@ tags:
 
 **Teknologia-alustat ovat informaatioteknologian infrastruktuuria.**Uudelle teknologia-alustalle on ominaista, että se tuo mukanaan uusia toiminnallisuuksia ja jakelukanavia. PC:n laskentateho mahdollisti tekstinkäsittelyyn ja taulukkolaskentaan erikoistuneiden sovellusten laaja-alaisen levityksen; Internet maailmanlaajuisena verkostona yhdisti PC:t yhteen jaettuun kommunikaatioverkostoon; älypuhelin teki tietokoneista kannettavia ja sisällytti niihin uusina ominaisuuksina sekä GPS-paikannuksen että kameran. Uuden teknologia-alustan ensimmäiset vuodet ovat usein otollisia hetkiä uudenlaisten yritysten rakentamiseen ja rahoittamiseen.
 
-![](/static/img/screenshot-2020-03-18-at-19.28.46.png "Informaatioteknologian kehitys 1990–2020.")
+![](/static/img/screenshot-2020-04-21-at-22.32.06.png "Informaatioteknologian kehitys 1990–2020.")
 
 **Lohkoketjuteknologia on uusi teknologia-alusta.** Lohkoketjuteknologia mahdollistaa maailmanlaajuisen yhteisön yhteisesti ylläpitämät avoimet tietokannat. Perinteisesti yritykset ovat vastanneet tiedon käsittelystä, tallentamisesta ja tietokantojen ylläpidosta. Tämän vastuun siirtäminen maailmanlaajuiselle käyttäjäryhmälle merkitsee, että yritystoimintaa voidaan harjoittaa vertaisverkossa, ilman perinteistä yritystä. Vertaisverkossa toimivat yritykset eli lohkoketjuprotokollat tarjoavat kilpailijoitaan parempia palveluita. Lohkoketjuprotokollien tuottamien palveluiden paremmuus perustuu niiden avoimuuteen (avoin lähdekoodi), kustannustehokkuuteen (maailmanlaajuinen kilpailu) ja jakeluun (Internet).
 
@@ -42,7 +42,7 @@ tags:
 
 **Lohkoketjuprotokolla maailmanlaajuisena markkinapaikkana on kustannustehokkain tapa tuottaa tietty palvelu.** Eri palveluiden maailmanlaajuisen kysynnän ja tarjonnan keskittäminen yhteen paikkaan johtaa kaikista kilpailukykyisimpiin hintoihin. Internetin maailmanlaajuisen ja avoimen kilpailun takia lohkoketjuprotokollat eivät lopulta voi periä muuta kuin palvelun ylläpitämiseen vaaditun vähimmäiskatteen. Sijoittajan näkökulmasta tämä ei haittaa, koska lohkoketjuprotokollat operoivat ennenäkemättömällä skaalalla. Jokaisen lohkoketjuprotokollan omistajapohjan teoreettinen yläraja on kulloinkin Internet-yhteydessä olevan väestön (ja laitteiden) määrä. Seitsemän miljardin ihmisen omistaman maksuverkon rakentaminen ei ole koskaan aikaisemmin ollut mahdollista.
 
-![](/static/img/screenshot-2020-03-18-at-19.29.10.png "Lohkoketjuprotokollat operoivat ennenäkemättömällä skaalalla perinteisiin yrityksiin verrattuna.")
+![](/static/img/screenshot-2020-04-21-at-22.31.44.png "Lohkoketjuprotokollat operoivat ennenäkemättömällä skaalalla perinteisiin yrityksiin verrattuna.")
 
 **Lohkoketjuprotokollissa on vahvat verkostovaikutukset.** Loppukäyttäjille suunnatut sovellukset hakevat tietyn palvelun aina siitä lohkoketjuprotokollasta, joka tuottaa sen kaikkein kustannustehokkaimmin. Tästä seuraa, että lopulta jokaista palvelua kohtaan on aina yksi lohkoketjuprotokolla. Suoraan lohkoketjuprotokolliin sijoittaminen on taloudellisesti paljon kannattavampaa kuin esimerkiksi sen palvelun päälle rakennettuun sovellukseen sijoittaminen. Tämä siksi, että tietyn palvelukategorian voittava lohkoketjuprotokolla palvelee kaikkia maailman sovelluksia. Tilanne on verrannollinen siihen, että 90-luvulla olisi ollut mahdollista sijoittaa SMTP (sähköposti), HTTPS (verkkosalaus) ja TCP/IP (tiedonsiirto) Internet-protokolliin. Jokainen sähköposti, verkkosivun lataus tai tiedonsiirto Internetissä olisi kerryttänyt näiden protokollien arvoa.
 
@@ -52,7 +52,7 @@ tags:
 
 **Token antaa omistajalleen sekä taloudellisia että hallinnollisia oikeuksia.** Tokeneihin voidaan ohjelmoida sekä taloudellisia (oikeus varojenjakoon) että hallinnollisia (äänestysoikeus) oikeuksia. Tokenomistajien intressissä on kasvattaa omistamistaan lohkoketjuprotokollista maailmanlaajuisia ja kustannustehokkaita infrastruktuurikomponentteja, joiden päälle kuka tahansa voi rakentaa oman loppukäyttäjille suunnatun sovelluksensa. Perinteisten osakkeiden tavoin myös tokenit on luotu kannustamaan tokenomistajaa osallistumaan lohkoketjuprotokollan liiketoiminnan kehittämiseen.
 
-![](/static/img/screenshot-2020-03-18-at-19.29.31.png "Tokenomistajien rooli voidaan rinnastaa osakkeenomistajien rooliin.")
+![](/static/img/screenshot-2020-04-21-at-22.28.08.png "Tokenomistajien rooli voidaan rinnastaa osakkeenomistajien rooliin.")
 
 **Mitä enemmän lohkoketjuprotokollan tuottamalle palvelulle on kysyntää, sitä arvokkaampi sen token on.** Lohkoketjuprotokollien tavoitteena on tuottaa tiettyä palvelua mahdollisimman luotettavasti ja kustannustehokkaasti. Eri palvelukategorioiden voittavat lohkoketjuprotokollat muodostuvat osaksi Internetin ydininfrastruktuuria. Potentaali arvonnousulle on merkittävä, koska nämä lohkoketjuprotokollat välittävät parhaimmillaan kaikkea Internetissä tapahtuvaa taloudellista aktiviteettia. Tokenomistajille arvoa kertyy lohkoketjuprotokollan käytöstä perittävän transaktiokustannuksen (vähimmäiskatteen) myötä.
 
@@ -66,13 +66,13 @@ tags:
 
 **Lohkoketjuteknologia luo maailmanlaajuisille yhteisöille taloudelliset kannustimet ylläpitää avoimia tietokantoja (tietokannan ylläpitäminen on edellytys palvelun tuottamiselle).** Eri palveluita koskeva tieto on nyt mahdollista tallentaa avoimiin, maailmanlaajuisten yhteisöjen yhteisesti omistamiin ja ylläpitämiin tietokantoihin. Lohkoketjuprotokolla koostuu tietyn palvelun toimintalogiikasta ja avoimesta tietokannasta. Monen toimialan transaktiotietokannat ovat jakautuneet tuhansien eri yritysten välillä. Lohkoketjuprotokolla tarjoaa tietylle palvelulle kilpailevana ratkaisuna yhden maailmanlaajuisen ja avoimen transaktiotietokannan.
 
-![](/static/img/screenshot-2020-03-18-at-19.29.45.png "Lohkoketjuprotokollat tarjoavat avoimia palveluita sovelluskehittäjille.")
+![](/static/img/screenshot-2020-04-21-at-22.27.28.png "Lohkoketjuprotokollat tarjoavat avoimia palveluita sovelluskehittäjille.")
 
 #### Sovellukset rakennetaan lohkoketjuprotokollien tuottamien palveluiden päälle
 
 **Lohkoketjuprotokollien avoimet palvelut ovat neutraaleja työkaluja sovelluskehittäjille.** Sovelluskehittäjät voivat käyttää lohkoketjuprotokollien avoimia palveluita työkaluinaan omissa loppukäyttäjille suunnatuissa sovelluksissaan, ilman pelkoa siitä, että yksittäinen yritys voisi sulkea sovelluksen pääsyn kyseiseen palveluun (nk. alustariski). Alustariskin toteutumisesta on useita esimerkkejä: Facebook/Zynga, Google/Yelp, Twitter/ulkopuoliset sovelluskehittäjät. Avoimet palvelut lisäävät innovaatiota yhteiskunnassa: lohkoketjuprotokollien tuottamien palveluiden nykyinen suosio sovelluskehittäjien keskuudessa on osoitus yleisestä kysynnästä avoimille palveluille. Yksittäinen sovellus voi hyödyntää yhden tai useamman lohkoketjuprotokollan palveluita. Koska palvelut ovat avoimia, on niiden yhdistäminen vaivatonta. Niiden avoimuus tarkoittaa myös sitä, että yksittäisen lohkoketjuprotokollan kehittäjien ja omistajien intressissä on saada kaikki maailman sovelluskehittäjät käyttämään niiden palvelua. Tämä eroaa nykytilanteesta, jossa palvelua tarjoavan ja ostavan yrityksen yhteistyö muuttuu ajan myötä kilpailuksi.
 
-![](/static/img/screenshot-2020-03-18-at-19.30.02.png "Lohkoketjuprotokollat poistavat sovelluskehittäjiltä alustariskin.")
+![](/static/img/screenshot-2020-04-21-at-22.26.40.png "Lohkoketjuprotokollat poistavat sovelluskehittäjiltä alustariskin.")
 
 **Lohkoketjuprotokolla tuo taloudelliset kannustimet avoimen lähdekoodiin kehitykseen.** Lohkoketjuprotokollaan ohjelmoidaan taloudelliset kannustimet sen avoimen lähdekoodin kehittämiseen. Yksittäisen lohkoketjuprotokollan kehittäjä voi hyötyä taloudellisesti avoimen lähdekoodin kehittämisestä ostamalla lohkoketjuprotokollan tokeneita ja parantamalla sen tuottaman palvelun kysyntää, jolloin myös tokeneiden arvo nousee.
 
@@ -82,7 +82,7 @@ tags:
 
 **Lohkoketjuprotokollan tuottaman palvelun liiketoimintalogiikka on ohjelmoitu sen avoimeen lähdekoodiin.** Usein lähdekoodiin on jätetty auki tietyt palvelun toimivuuden kannalta olennaiset muuttujat, joista tokenomistajat äänestävät tasaisin väliajoin. Kuka tahansa voi hyödyntää lohkoketjuprotokollien tuottamia palveluita maksua ja/tai vakuuden asettamista vastaan. Lohkoketjuprotokollan tokenomistajien tehtävänä on ylläpitää palvelun toimivuutta (äänestämällä yllä mainituista muuttujista) ja luotettavuutta (asettamalla tokenomistuksensa palvelun vakuudeksi).
 
-![](/static/img/screenshot-2020-03-18-at-19.30.25.png "Esimerkkejä eri lohkoketjuprotokollista ja niiden tuottamista palveluista.")
+![](/static/img/screenshot-2020-04-21-at-22.33.07.png "Esimerkkejä eri lohkoketjuprotokollista ja niiden tuottamista palveluista.")
 
 ### LOHKOKETJUTEKNOLOGIAN KEHITYS
 
