@@ -12,7 +12,7 @@ This article is aimed at institutional and other professional investors who are 
 
 *For more on blockchain technology and its development see: [Towards an Internet-Native Economy](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/).*
 
-![](/static/img/screenshot-2020-03-18-at-21.22.31.png "An investor interested in the attractive risk-return profile of the new asset class needs to consider the additional technical and operational requirements that pertain to token investing.")
+![](/static/img/screenshot-2020-04-22-at-11.24.04.png "An investor interested in the attractive risk-return profile of the new asset class needs to consider the additional technical and operational requirements that pertain to token investing.")
 
 The first part of the article highlights recent developments in the market infrastructure for token trading and custody. As a result, more institutional investors have been able to invest in tokens. The second part outlines the technical and operational requirements of token investing. The third part walks through the alternatives available to institutional investors interested in investing in tokens.
 
@@ -31,13 +31,13 @@ Examples of other well-known technology and traditional financial services firms
 * Chicago Mercantile Exchange (CME). CME added bitcoin futures to their service offering in December 2017. The company introduced bitcoin options for trading in January 2020.
 * The parent company of New York Stock Exchange, Intercontinental Exchange (ICE). In 2019, ICE launched the token trading and custody platform Bakkt.
 
-  ![](/static/img/screenshot-2020-03-18-at-21.22.45.png "Intercontinental Exchange operates its own token trading platform called Bakkt.")
+  ![](/static/img/screenshot-2020-04-22-at-11.26.19.png "Intercontinental Exchange operates its own token trading platform called Bakkt.")
 
   Today, over 20 companies that provide token custody services have obtained the status of a Qualified Custodian in accordance with New York state banking laws (New York Banking Law § 100).
 
   Examples of regulated service providers:
 
-  ![](/static/img/screenshot-2020-03-18-at-21.22.54.png "Examples of regulated token trading and custody service providers.")
+  ![](/static/img/screenshot-2020-04-22-at-11.24.18.png "Examples of regulated token trading and custody service providers.")
 
   To date, the majority of institutional investment activity in blockchain has been concentrated to the US. The European Investment Fund announced at the end of 2019 its intent to allocate [400 million euros to blockchain technology investments](https://ec.europa.eu/digital-single-market/en/news/eu-artificial-intelligence-and-blockchain-investment-fund-invest-100-million-euros-startups) in 2020. The mandate was given to ensure that Europe is not being left behind US and Asia in the development of leading edge technologies.
 
@@ -49,7 +49,7 @@ Examples of other well-known technology and traditional financial services firms
 
   Traditional companies depend on the functionality of blockchain technology, and their opportunity to serve users globally is more limited than Internet-native companies’. The tokens of Internet-native companies’ resemble shares and provide their owners with both economic and governance rights.
 
-  ![](/static/img/screenshot-2020-03-18-at-21.23.17.png "The performance of Internet-native companies can be measured with similar financial metrics that are used to measure traditional companies. Source: Token Terminal.")
+  ![](/static/img/screenshot-2020-04-22-at-10.56.34.png "The performance of Internet-native companies can be measured with similar financial metrics that are used to measure traditional companies. Source: Token Terminal.")
 
   #### Token investing takes place in an Internet-native environment
 
@@ -57,7 +57,7 @@ Examples of other well-known technology and traditional financial services firms
 
   The daily development activity is concentrated to online forums such as Twitter, Discord, Medium, and Github. The transaction activity of Internet-native companies can be monitored in [real time](https://etherscan.io/txsPending) since they are based on open source and open data. In addition to transaction activity, investors need to be able to analyse the operations of their investment targets by following the development work of the core teams and the investment target’s popularity among third-party developers. Finding the relevant information and parties requires active participation in these online communities.
 
-  ![](/static/img/screenshot-2020-03-18-at-21.23.28.png "Examples of different Internet-native companies or token projects.")
+  ![](/static/img/screenshot-2020-04-22-at-11.24.33.png "Examples of different Internet-native companies or token projects.")
 
   A professional and blockchain-focused investment team is best suited to source the most promising investment targets.
 
@@ -73,7 +73,7 @@ Examples of other well-known technology and traditional financial services firms
 
   Due to the untraditional investment targets and investment process, many traditional venture capital funds have exceptionally chosen to make fund-of-fund investments into other venture capital funds dedicated solely to blockchain. 
 
-  ![](/static/img/screenshot-2020-03-18-at-21.23.42.png "There are several active token venture capital funds operating globally.")
+  ![](/static/img/screenshot-2020-04-22-at-11.24.52.png "There are several active token venture capital funds operating globally.")
 
   The nascency of the token asset class, the regulatory questions surrounding it, and its rapid development pace, all support a long-term and active investment strategy. Blockchain technology is in many ways more akin to the Internet — a technology that had an impact on several different industries — than a single [vertical](https://pitchbook.com/blog/what-are-industry-verticals), which is why a successful investment operation often requires a dedicated team.
 
