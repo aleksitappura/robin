@@ -1,5 +1,5 @@
 ---
-title: " Blockchain as an asset class - an introduction for institutional investors"
+title: " Blockchain as an asset class — an introduction for institutional investors"
 date: 2020-01-01T19:20:48.392Z
 tags:
   - English
