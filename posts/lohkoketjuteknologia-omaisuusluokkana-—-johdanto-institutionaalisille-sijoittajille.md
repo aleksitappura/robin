@@ -56,7 +56,7 @@ Internet-pohjaisiin yrityksiin sijoittaminen (tokensijoittaminen) eroaa monelta 
 
 Internet-pohjaisten yritysten päivittäinen kehitystoiminta keskittyy usein eri online-foorumeille, kuten Twitteriin, Discordiin, Mediumiin ja Githubiin. Koska Internet-pohjaiset yritykset rakentuvat avoimen datan ja lähdekoodin varaan, niiden toimintaa ja transaktioita on mahdollista seurata [reaaliajassa](https://etherscan.io/txsPending). Transaktioaktiviteetin lisäksi sijoittajan tulee pystyä analysoimaan sijoituskohteen toimintaa seuraamalla sen ydintiimin kehitystyötä ja sijoituskohteen suosiota ulkopuolisten sovelluskehittäjien keskuudessa. Relevantin tiedon ja tahojen löytäminen edellyttää aktiivista osallistumista näihin online-yhteisöihin.
 
-![](/static/img/screenshot-2020-04-22-at-16.54.44.png "Esimerkkejä eri Internet-pohjaisista yrityksistä eli tokenprojekteista.")
+![](/static/img/screenshot-2020-04-22-at-18.17.08.png "Esimerkkejä eri Internet-pohjaisista yrityksistä eli tokenprojekteista.")
 
 Ammattitaitoisella ja lohkoketjuteknologiaan erikoistuneella sijoitustiimillä on parhaimmat edellytykset löytää lupaavimmat sijoituskohteet.
 
