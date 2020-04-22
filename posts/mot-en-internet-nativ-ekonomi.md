@@ -1,11 +1,9 @@
 ---
-title: Mot En Internet-Nativ Ekonomi
+title: Mot en Internet-nativ ekonomi
 date: 2019-11-22T17:41:03.049Z
 tags:
   - Swedish
 ---
-*Läs artikeln på **[finska](https://suspicious-kepler-340c57.netlify.com/posts/kohti-internet-natiivia-taloutta/)** eller **[engelska](https://suspicious-kepler-340c57.netlify.com/posts/towards-an-internet-native-economy/)**.*
-
 ***INFORMATIONSTEKNOLOGINS UTVECKLING***
 
 * *Ny infrastruktur möjliggör utvecklandet av nya sorters applikationer*
